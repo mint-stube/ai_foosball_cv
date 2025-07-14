@@ -1,0 +1,204 @@
+;ordernumber;series_name;model_name;product_line;shutter;monocolor;sensor_optical_size;resolution_horizontal;resolution_vertical;pixel_size_horizontal;pixel_size_vertical;sensor_name;housing_name;interface;sensor_framerate_min;sensor_framerate_max;mount;price
+0;106765;Basler ace;acA800-510uc;ace U;Global;Color;"1/3.6""";800;600;4,8;4,8;PYTHON 500;Box;USB 3.0;511;511;C-Mount;449
+1;108722;Basler dart;daA720-520um (No-Mount);;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;No-Mount;204
+2;108723;Basler dart;daA720-520um (S-Mount);;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;S-Mount;209
+3;108724;Basler dart;daA720-520um (CS-Mount);;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;CS-Mount;209
+4;108725;Basler dart;daA720-520uc (No-Mount);;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;No-Mount;204
+5;108726;Basler dart;daA720-520uc (S-Mount);;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;S-Mount;209
+6;108727;Basler dart;daA720-520uc (CS-Mount);;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;USB 3.0;523;523;CS-Mount;209
+7;107654;Basler ace;acA720-520um;ace U;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Box;USB 3.0;525;525;C-Mount;369
+8;107655;Basler ace;acA720-520uc;ace U;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Box;USB 3.0;525;525;C-Mount;399
+9;106748;Basler ace;acA640-750um;ace U;Global;Mono;"1/4""";640;480;4,8;4,8;PYTHON 300;Box;USB 3.0;751;751;C-Mount;409
+10;106749;Basler ace;acA640-750uc;ace U;Global;Color;"1/4""";640;480;4,8;4,8;PYTHON 300;Box;USB 3.0;751;751;C-Mount;439
+11;108232;Basler dart;daA1920-160uc (No-Mount);;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;No-Mount;249
+12;108233;Basler dart;daA1920-160uc (S-Mount);;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;S-Mount;259
+13;108234;Basler dart;daA1920-160uc (CS-Mount);;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;CS-Mount;259
+14;108908;Basler ace 2;a2A1920-165g5mBAS;ace 2 R Basic;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;5GigE;168;168;C-Mount;569
+15;108909;Basler ace 2;a2A1920-165g5cBAS;ace 2 R Basic;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;5GigE;168;168;C-Mount;589
+16;106752;Basler ace;acA1300-200um;ace U;Global;Mono;"1/2""";1280;1024;4,8;4,8;PYTHON 1300;Box;USB 3.0;203;203;C-Mount;449
+17;106754;Basler ace;acA1300-200uc;ace U;Global;Color;"1/2""";1280;1024;4,8;4,8;PYTHON 1300;Box;USB 3.0;203;203;C-Mount;479
+18;107652;Basler ace;acA1440-220um;ace U;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Box;USB 3.0;227;227;C-Mount;399
+19;107653;Basler ace;acA1440-220uc;ace U;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Box;USB 3.0;227;227;C-Mount;419
+20;108728;Basler dart;daA1440-220um (No-Mount);;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;No-Mount;224
+21;108729;Basler dart;daA1440-220um (S-Mount);;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;S-Mount;229
+22;108730;Basler dart;daA1440-220um (CS-Mount);;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;CS-Mount;229
+23;108731;Basler dart;daA1440-220uc (No-Mount);;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;No-Mount;224
+24;108732;Basler dart;daA1440-220uc (S-Mount);;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;S-Mount;229
+25;108733;Basler dart;daA1440-220uc (CS-Mount);;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;USB 3.0;227;227;CS-Mount;229
+26;106766;Basler ace;acA800-200gm;ace U;Global;Mono;"1/3.6""";800;600;4,8;4,8;PYTHON 500;Box;GigE;240;240;C-Mount;429
+27;106767;Basler ace;acA800-200gc;ace U;Global;Color;"1/3.6""";800;600;4,8;4,8;PYTHON 500;Box;GigE;240;240;C-Mount;449
+28;109207;Basler dart;dmA720-290gm (Mono);;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;GigE;290;290;No-Mount;209
+29;109208;Basler dart;dmA720-290gc (Color);;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Board Level;GigE;290;290;No-Mount;209
+30;107650;Basler ace;acA720-290gm;ace U;Global;Mono;"1/2.9""";720;540;6,9;6,9;IMX287;Box;GigE;291;291;C-Mount;369
+31;107651;Basler ace;acA720-290gc;ace U;Global;Color;"1/2.9""";720;540;6,9;6,9;IMX287;Box;GigE;291;291;C-Mount;399
+32;106750;Basler ace;acA640-300gm;ace U;Global;Mono;"1/4""";640;480;4,8;4,8;PYTHON 300;Box;GigE;376;376;C-Mount;409
+33;106751;Basler ace;acA640-300gc;ace U;Global;Color;"1/4""";640;480;4,8;4,8;PYTHON 300;Box;GigE;376;376;C-Mount;439
+34;106764;Basler ace;acA800-510um;ace U;Global;Mono;"1/3.6""";800;600;4,8;4,8;PYTHON 500;Box;USB 3.0;511;511;C-Mount;429
+35;108622;Basler dart;daA2448-70uc (No-Mount);;Global;Color;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;No-Mount;489
+36;108623;Basler dart;daA2448-70uc (S-Mount);;Global;Color;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;S-Mount;499
+37;108624;Basler dart;daA2448-70uc (CS-Mount);;Global;Color;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;CS-Mount;499
+38;107647;Basler ace;acA1440-73gm;ace U;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Box;GigE;73;73;C-Mount;399
+39;107649;Basler ace;acA1440-73gc;ace U;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Box;GigE;73;73;C-Mount;419
+40;109205;Basler dart;dmA1440-73gm (Mono);;Global;Mono;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;GigE;73;73;No-Mount;229
+41;109206;Basler dart;dmA1440-73gc (Color);;Global;Color;"1/2.9""";1440;1080;3,45;3,45;IMX273;Board Level;GigE;73;73;No-Mount;229
+42;106755;Basler ace;acA1300-75gm;ace U;Global;Mono;"1/2""";1280;1024;4,8;4,8;PYTHON 1300;Box;GigE;88;88;C-Mount;449
+43;106757;Basler ace;acA1300-75gc;ace U;Global;Color;"1/2""";1280;1024;4,8;4,8;PYTHON 1300;Box;GigE;88;88;C-Mount;479
+44;109474;Basler ace 2;a2A2048-114umBAS​;ace 2 R Basic;Global;Mono;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;USB 3.0;114;114;C-Mount;349
+45;109475;Basler ace 2;a2A2048-114ucBAS​;ace 2 R Basic;Global;Color;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;USB 3.0;114;114;C-Mount;369
+46;109476;Basler ace 2;a2A2048-114umPRO​;ace 2 R Pro;Global;Mono;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;USB 3.0;114;114;C-Mount;459
+47;109477;Basler ace 2;a2A2048-114ucPRO​;ace 2 R Pro;Global;Color;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;USB 3.0;114;114;C-Mount;479
+48;109478;Basler ace 2;a2A2048-114g5mBAS​;ace 2 R Basic;Global;Mono;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;5GigE;114;114;C-Mount;579
+49;109479;Basler ace 2;a2A2048-114g5cBAS​;ace 2 R Basic;Global;Color;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;5GigE;114;114;C-Mount;599
+50;107739;Basler ace;acA640-121gm;ace U;Global;Mono;"1/4""";659;494;5,6;5,6;ICX618 Replacement;Box;GigE;134;134;C-Mount;339
+51;107261;Basler ace;acA1920-150um;ace U;Global;Mono;"2/3""";1920;1200;4,8;4,8;PYTHON 2000;Box;USB 3.0;150;150;C-Mount;589
+52;107820;Basler ace 2;a2A1920-160umBAS;ace 2 R Basic;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;USB 3.0;160;160;C-Mount;339
+53;107821;Basler ace 2;a2A1920-160ucBAS;ace 2 R Basic;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;USB 3.0;160;160;C-Mount;359
+54;107961;Basler ace 2;a2A1920-160umPRO;ace 2 R Pro;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;USB 3.0;160;160;C-Mount;449
+55;107962;Basler ace 2;a2A1920-160ucPRO;ace 2 R Pro;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;USB 3.0;160;160;C-Mount;469
+56;108229;Basler dart;daA1920-160um (No-Mount);;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;No-Mount;249
+57;108230;Basler dart;daA1920-160um (S-Mount);;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;S-Mount;259
+58;108231;Basler dart;daA1920-160um (CS-Mount);;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;USB 3.0;160;160;CS-Mount;259
+59;107964;Basler ace 2;a2A1920-51gcPRO;ace 2 R Pro;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;GigE;51;51;C-Mount;459
+60;106680;Basler dart;daA1280-54um (No-Mount);;Global;Mono;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;No-Mount;169
+61;106681;Basler dart;daA1280-54um (CS-Mount);;Global;Mono;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;CS-Mount;179
+62;106682;Basler dart;daA1280-54um (S-Mount);;Global;Mono;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;S-Mount;179
+63;106683;Basler dart;daA1280-54uc (No-Mount);;Global;Color;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;No-Mount;179
+64;106684;Basler dart;daA1280-54uc (CS-Mount);;Global;Color;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;CS-Mount;189
+65;106685;Basler dart;daA1280-54uc (S-Mount);;Global;Color;"1/3""";1280;960;3,75;3,75;AR0134;Board Level;USB 3.0;54;54;S-Mount;189
+66;106953;Basler pulse;puA1280-54um;;Global;Mono;"1/3""";1280;960;3,75;3,75;AR0134;Box;USB 3.0;54;54;C-Mount;199
+67;106954;Basler pulse;puA1280-54uc;;Global;Color;"1/3""";1280;960;3,75;3,75;AR0134;Box;USB 3.0;54;54;C-Mount;209
+68;106980;Basler dart;daA1600-60um (No-Mount);;Global;Mono;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;No-Mount;309
+69;106981;Basler dart;daA1600-60um (CS-Mount);;Global;Mono;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;CS-Mount;319
+70;106982;Basler dart;daA1600-60um (S-Mount);;Global;Mono;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;S-Mount;319
+71;106983;Basler dart;daA1600-60uc (No-Mount);;Global;Color;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;No-Mount;319
+72;106988;Basler dart;daA1600-60uc (CS-Mount);;Global;Color;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;CS-Mount;329
+73;106989;Basler dart;daA1600-60uc (S-Mount);;Global;Color;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Board Level;USB 3.0;60;60;S-Mount;329
+74;106990;Basler pulse;puA1600-60um;;Global;Mono;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Box;USB 3.0;60;60;C-Mount;339
+75;106991;Basler pulse;puA1600-60uc;;Global;Color;"1/1.8""";1600;1200;4,5;4,5;EV76C570;Box;USB 3.0;60;60;C-Mount;349
+76;108370;Basler ace 2;a2A2600-64umBAS;ace 2 R Basic;Global;Mono;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;USB 3.0;64;64;C-Mount;479
+77;108371;Basler ace 2;a2A2600-64ucBAS;ace 2 R Basic;Global;Color;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;USB 3.0;64;64;C-Mount;499
+78;108372;Basler ace 2;a2A2600-64umPRO;ace 2 R Pro;Global;Mono;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;USB 3.0;64;64;C-Mount;559
+79;108373;Basler ace 2;a2A2600-64ucPRO;ace 2 R Pro;Global;Color;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;USB 3.0;64;64;C-Mount;579
+80;108619;Basler dart;daA2448-70um (No-Mount);;Global;Mono;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;No-Mount;489
+81;108620;Basler dart;daA2448-70um (S-Mount);;Global;Mono;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;S-Mount;499
+82;108621;Basler dart;daA2448-70um (CS-Mount);;Global;Mono;"1/1.8""";2448;2048;2,74;2,74;IMX548;Board Level;USB 3.0;72;72;CS-Mount;499
+83;109466;Basler dart;dmA2840-14gm (Mono);;Global;Mono;"2/3""";2840;2840;2,74;2,74;IMX546;Board Level;GigE;14;14;No-Mount;589
+84;109467;Basler dart;dmA2840-14gc (Color);;Global;Color;"2/3""";2840;2840;2,74;2,74;IMX546;Board Level;GigE;14;14;No-Mount;589
+85;108366;Basler ace 2;a2A2600-20gmBAS;ace 2 R Basic;Global;Mono;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;GigE;20;20;C-Mount;479
+86;108367;Basler ace 2;a2A2600-20gcBAS;ace 2 R Basic;Global;Color;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;GigE;20;20;C-Mount;499
+87;108368;Basler ace 2;a2A2600-20gmPRO;ace 2 R Pro;Global;Mono;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;GigE;20;20;C-Mount;559
+88;108369;Basler ace 2;a2A2600-20gcPRO;ace 2 R Pro;Global;Color;"1/2""";2600;2160;2,5;2,5;GMAX2505;Box;GigE;20;20;C-Mount;579
+89;109468;Basler dart;dmA2448-23gm (Mono);;Global;Mono;"1/1.8""";2448;2048;2,74;2,74;IMX547;Board Level;GigE;23;23;No-Mount;459
+90;109469;Basler dart;dmA2448-23gc (Color);;Global;Color;"1/1.8""";2448;2048;2,74;2,74;IMX547;Board Level;GigE;23;23;No-Mount;459
+91;107214;Basler ace;acA2040-35gm;ace U;Global;Mono;"1/1.8""";2048;1536;3,45;3,45;IMX265;Box;GigE;36;36;C-Mount;529
+92;107215;Basler ace;acA2040-35gc;ace U;Global;Color;"1/1.8""";2048;1536;3,45;3,45;IMX265;Box;GigE;36;36;C-Mount;559
+93;109470;Basler ace 2;a2A2048-37gmBAS​;ace 2 R Basic;Global;Mono;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;GigE;37;37;C-Mount;349
+94;109471;Basler ace 2;a2A2048-37gcBAS​;ace 2 R Basic;Global;Color;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;GigE;37;37;C-Mount;369
+95;109472;Basler ace 2;a2A2048-37gmPRO;ace 2 R Pro;Global;Mono;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;GigE;37;37;C-Mount;459
+96;109473;Basler ace 2;a2A2048-37gcPRO​;ace 2 R Pro;Global;Color;1/3.1'';2048;1536;2,25;2,25;IMX900;Box;GigE;37;37;C-Mount;479
+97;106909;Basler ace;acA1920-40um;ace U;Global;Mono;"1/1.2""";1920;1200;5,86;5,86;IMX249;Box;USB 3.0;41;41;C-Mount;489
+98;106910;Basler ace;acA1920-40uc;ace U;Global;Color;"1/1.2""";1920;1200;5,86;5,86;IMX249;Box;USB 3.0;41;41;C-Mount;509
+99;106907;Basler ace;acA1920-40gm;ace U;Global;Mono;"1/1.2""";1920;1200;5,86;5,86;IMX249;Box;GigE;42;42;C-Mount;489
+100;106908;Basler ace;acA1920-40gc;ace U;Global;Color;"1/1.2""";1920;1200;5,86;5,86;IMX249;Box;GigE;42;42;C-Mount;509
+101;107263;Basler ace;acA1920-48gm;ace U;Global;Mono;"2/3""";1920;1200;4,8;4,8;PYTHON 2000;Box;GigE;50;50;C-Mount;589
+102;107822;Basler ace 2;a2A1920-51gmBAS;ace 2 R Basic;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;GigE;51;51;C-Mount;329
+103;107823;Basler ace 2;a2A1920-51gcBAS;ace 2 R Basic;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;GigE;51;51;C-Mount;359
+104;109204;Basler dart;dmA1920-51gc (Color);;Global;Color;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;GigE;51;51;No-Mount;259
+105;109209;Basler dart;dmA1920-51gm (Mono);;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Board Level;GigE;51;51;No-Mount;259
+106;107963;Basler ace 2;a2A1920-51gmPRO;ace 2 R Pro;Global;Mono;"1/2.3""";1920;1200;3,45;3,45;IMX392;Box;GigE;51;51;C-Mount;439
+107;107408;Basler ace;acA4024-8gm;ace U;Rolling;Mono;"1/1.7""";4024;3036;1,85;1,85;IMX226;Box;GigE;8;8;C-Mount;479
+108;107409;Basler ace;acA4024-8gc;ace U;Rolling;Color;"1/1.7""";4024;3036;1,85;1,85;IMX226;Box;GigE;8;8;C-Mount;509
+109;109492;Basler ace 2;a2A3536-9gmBAS;ace 2 R Basic;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Box;GigE;9;9;C-Mount;379
+110;109493;Basler ace 2;a2A3536-9gcBAS;ace 2 R Basic;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Box;GigE;9;9;C-Mount;399
+111;109494;Basler ace 2;a2A3536-9gmPRO;ace 2 R Pro;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Box;GigE;9;9;C-Mount;479
+112;109495;Basler ace 2;a2A3536-9gcPRO;ace 2 R Pro;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Box;GigE;9;9;C-Mount;499
+113;109498;Basler dart;dmA3536-9gm (Mono);;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Board Level;GigE;9;9;No-Mount;299
+114;109499;Basler dart;dmA3536-9gc (Color);;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Board Level;GigE;9;9;No-Mount;299
+115;106702;Basler ace;acA3800-10gm;ace Classic;Rolling;Mono;"1/2.3""";3840;2748;1,67;1,67;MT9J003;Box;GigE;10;10;C-Mount;469
+116;106703;Basler ace;acA3800-10gc;ace Classic;Rolling;Color;"1/2.3""";3840;2748;1,67;1,67;MT9J003;Box;GigE;10;10;C-Mount;489
+117;108127;Basler ace 2;a2A3840-13gmPRO;ace 2 R Pro;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;GigE;13;13;C-Mount;419
+118;108128;Basler ace 2;a2A3840-13gcPRO;ace 2 R Pro;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;GigE;13;13;C-Mount;439
+119;108016;Basler ace 2;a2A3840-13gmBAS;ace 2 R Basic;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;GigE;13;13;C-Mount;309
+120;108017;Basler ace 2;a2A3840-13gcBAS;ace 2 R Basic;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;GigE;13;13;C-Mount;329
+121;106019;Basler ace;acA2500-14gm (CS-Mount);ace Classic;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;GigE;14;14;CS-Mount;439
+122;106020;Basler ace;acA2500-14gc (CS-Mount);ace Classic;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;GigE;14;14;CS-Mount;469
+123;106536;Basler ace;acA3800-14um;ace Classic;Rolling;Mono;"1/2.3""";3840;2748;1,67;1,67;MT9J003;Box;USB 3.0;14;14;C-Mount;469
+124;106537;Basler ace;acA3800-14uc;ace Classic;Rolling;Color;"1/2.3""";3840;2748;1,67;1,67;MT9J003;Box;USB 3.0;14;14;C-Mount;489
+125;105392;Basler ace;acA2500-14gm;ace Classic;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;GigE;14;14;C-Mount;429
+126;105393;Basler ace;acA2500-14gc;ace Classic;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;GigE;14;14;C-Mount;449
+127;106692;Basler dart;daA2500-14um (No-Mount);;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;No-Mount;169
+128;106693;Basler dart;daA2500-14um (CS-Mount);;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;CS-Mount;179
+129;106694;Basler dart;daA2500-14um (S-Mount);;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;S-Mount;179
+130;106695;Basler dart;daA2500-14uc (No-Mount);;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;No-Mount;179
+131;106696;Basler dart;daA2500-14uc (CS-Mount);;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;CS-Mount;189
+132;106697;Basler dart;daA2500-14uc (S-Mount);;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Board Level;USB 3.0;14;14;S-Mount;189
+133;106957;Basler pulse;puA2500-14um;;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;C-Mount;199
+134;106958;Basler pulse;puA2500-14uc;;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;C-Mount;209
+135;106458;Basler ace;acA2500-14um (CS-Mount);ace Classic;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;CS-Mount;399
+136;106459;Basler ace;acA2500-14uc (CS-Mount);ace Classic;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;CS-Mount;419
+137;106215;Basler ace;acA2500-14um;ace Classic;Rolling;Mono;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;C-Mount;399
+138;106216;Basler ace;acA2500-14uc;ace Classic;Rolling;Color;"1/2.5""";2592;1944;2,2;2,2;MT9P031;Box;USB 3.0;14;14;C-Mount;419
+139;106732;Basler dart;daA1920-15um (No-Mount);;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;15;15;No-Mount;129
+140;107406;Basler ace;acA3088-16gm;ace U;Rolling;Mono;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;GigE;16;16;C-Mount;409
+141;107407;Basler ace;acA3088-16gc;ace U;Rolling;Color;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;GigE;16;16;C-Mount;429
+142;108131;Basler ace 2;a2A2590-22gmPRO;ace 2 R Pro;Rolling;Mono;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;GigE;22;22;C-Mount;389
+143;108132;Basler ace 2;a2A2590-22gcPRO;ace 2 R Pro;Rolling;Color;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;GigE;22;22;C-Mount;409
+144;108030;Basler ace 2;a2A2590-22gmBAS;ace 2 R Basic;Rolling;Mono;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;GigE;22;22;C-Mount;279
+145;108031;Basler ace 2;a2A2590-22gcBAS;ace 2 R Basic;Rolling;Color;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;GigE;22;22;C-Mount;299
+146;106800;Basler ace;acA1920-25gc (CS-Mount);ace Classic;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;GigE;25;25;CS-Mount;269
+147;106493;Basler ace;acA1920-25gm;ace Classic;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;GigE;25;25;C-Mount;249
+148;106494;Basler ace;acA1920-25gc;ace Classic;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;GigE;25;25;C-Mount;269
+149;106228;Basler ace;acA1920-25um;ace Classic;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;USB 3.0;26;26;C-Mount;249
+150;106229;Basler ace;acA1920-25uc;ace Classic;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;USB 3.0;26;26;C-Mount;269
+151;108218;Basler dart;daA3840-30mc (No-Mount);;Rolling;Color;"1/1.8""";3840;2160;2,1;2,1;AR0821;Board Level;BCON for MIPI;30;30;No-Mount;105
+152;108219;Basler dart;daA3840-30mc (No-Mount) - Tray (40pcs);;Rolling;Color;"1/1.8""";3840;2160;2,1;2,1;AR0821;Board Level;BCON for MIPI;30;30;No-Mount;79
+153;108220;Basler dart;daA3840-30mc (S-Mount);;Rolling;Color;"1/1.8""";3840;2160;2,1;2,1;AR0821;Board Level;BCON for MIPI;30;30;S-Mount;115
+154;108221;Basler dart;daA3840-30mc (S-Mount) - Tray (40pcs);;Rolling;Color;"1/1.8""";3840;2160;2,1;2,1;AR0821;Board Level;BCON for MIPI;30;30;S-Mount;92
+155;106686;Basler dart;daA1920-30um (No-Mount);;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;No-Mount;159
+156;106687;Basler dart;daA1920-30um (CS-Mount);;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;CS-Mount;169
+157;106688;Basler dart;daA1920-30um (S-Mount);;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;S-Mount;169
+158;106689;Basler dart;daA1920-30uc (No-Mount);;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;No-Mount;169
+159;106690;Basler dart;daA1920-30uc (CS-Mount);;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;CS-Mount;179
+160;106691;Basler dart;daA1920-30uc (S-Mount);;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Board Level;USB 3.0;30;30;S-Mount;179
+161;106955;Basler pulse;puA1920-30um;;Rolling;Mono;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;USB 3.0;30;30;C-Mount;189
+162;106956;Basler pulse;puA1920-30uc;;Rolling;Color;"1/3.7""";1920;1080;2,2;2,2;MT9P031;Box;USB 3.0;30;30;C-Mount;199
+163;108010;Basler dart;daA4200-30mci (No-Mount);;Rolling;Color;"1/3""";4208;3120;1,1;1,1;AR1335;Board Level;BCON for MIPI;30;30;No-Mount;99
+164;108011;Basler dart;daA4200-30mci (S-Mount);;Rolling;Color;"1/3""";4208;3120;1,1;1,1;AR1335;Board Level;BCON for MIPI;30;30;S-Mount;112
+165;108012;Basler dart;daA4200-30mci (No-Mount) - Tray (40pcs);;Rolling;Color;"1/3""";4208;3120;1,1;1,1;AR1335;Board Level;BCON for MIPI;30;30;No-Mount;75
+166;108013;Basler dart;daA4200-30mci (S-Mount) - Tray (40pcs);;Rolling;Color;"1/3""";4208;3120;1,1;1,1;AR1335;Board Level;BCON for MIPI;30;30;S-Mount;89
+167;107404;Basler ace;acA4024-29um;ace U;Rolling;Mono;"1/1.7""";4024;3036;1,85;1,85;IMX226;Box;USB 3.0;31;31;C-Mount;479
+168;107405;Basler ace;acA4024-29uc;ace U;Rolling;Color;"1/1.7""";4024;3036;1,85;1,85;IMX226;Box;USB 3.0;31;31;C-Mount;509
+169;109488;Basler ace 2;a2A3536-31umBAS;ace 2 R Basic;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Box;USB 3.0;31;31;C-Mount;379
+170;109489;Basler ace 2;a2A3536-31ucBAS;ace 2 R Basic;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Box;USB 3.0;31;31;C-Mount;399
+171;109490;Basler ace 2;a2A3536-31umPRO;ace 2 R Pro;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Box;USB 3.0;31;31;C-Mount;479
+172;109491;Basler ace 2;a2A3536-31ucPRO;ace 2 R Pro;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Box;USB 3.0;31;31;C-Mount;499
+173;109496;Basler ace 2;a2A3536-42g5mBAS;ace 2 R Basic;Rolling;Mono;1/1.6;3536;3536;2,0;2,0;IMX676;Box;5GigE;42;42;C-Mount;549
+174;109497;Basler ace 2;a2A3536-42g5cBAS;ace 2 R Basic;Rolling;Color;1/1.6;3536;3536;2,0;2,0;IMX676;Box;5GigE;42;42;C-Mount;569
+175;108125;Basler ace 2;a2A3840-45umPRO;ace 2 R Pro;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;USB 3.0;45;45;C-Mount;429
+176;108126;Basler ace 2;a2A3840-45ucPRO;ace 2 R Pro;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;USB 3.0;45;45;C-Mount;449
+177;108014;Basler ace 2;a2A3840-45umBAS;ace 2 R Basic;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;USB 3.0;45;45;C-Mount;319
+178;108270;Basler dart;daA3840-45um (No-Mount);;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;No-Mount;179
+179;108015;Basler ace 2;a2A3840-45ucBAS;ace 2 R Basic;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Box;USB 3.0;45;45;C-Mount;339
+180;108271;Basler dart;daA3840-45um (S-Mount);;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;S-Mount;179
+181;108272;Basler dart;daA3840-45um (CS-Mount);;Rolling;Mono;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;CS-Mount;179
+182;108273;Basler dart;daA3840-45uc (No-Mount);;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;No-Mount;179
+183;108274;Basler dart;daA3840-45uc (S-Mount);;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;S-Mount;179
+184;108275;Basler dart;daA3840-45uc (CS-Mount);;Rolling;Color;"1/1.8""";3840;2160;2,0;2,0;IMX334;Board Level;USB 3.0;45;45;CS-Mount;179
+185;108142;Basler MED ace;MED ace 6.4 MP 59 mono;;Rolling;Mono;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;USB 3.0;59;59;C-Mount;559
+186;108143;Basler MED ace;MED ace 6.4 MP 59 color;;Rolling;Color;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;USB 3.0;59;59;C-Mount;599
+187;107402;Basler ace;acA3088-57um;ace U;Rolling;Mono;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;USB 3.0;59;59;C-Mount;409
+188;107403;Basler ace;acA3088-57uc;ace U;Rolling;Color;"1/1.8""";3088;2064;2,4;2,4;IMX178;Box;USB 3.0;59;59;C-Mount;429
+189;108129;Basler ace 2;a2A2590-60umPRO;ace 2 R Pro;Rolling;Mono;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;USB 3.0;60;60;C-Mount;399
+190;108130;Basler ace 2;a2A2590-60ucPRO;ace 2 R Pro;Rolling;Color;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;USB 3.0;60;60;C-Mount;419
+191;108482;Basler dart;daA2500-60mc (No-Mount);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;No-Mount;79
+192;108483;Basler dart;daA2500-60mc (S-Mount);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;S-Mount;92
+193;108484;Basler dart;daA2500-60mc (No-Mount) - Tray (40pcs);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;No-Mount;57
+194;108485;Basler dart;daA2500-60mc (S-Mount) - Tray (40pcs);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;S-Mount;69
+195;108006;Basler dart;daA2500-60mci (No-Mount);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;No-Mount;89
+196;108007;Basler dart;daA2500-60mci (S-Mount);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;S-Mount;99
+197;108008;Basler dart;daA2500-60mci (No-Mount) - Tray (40pcs);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;No-Mount;65
+198;108009;Basler dart;daA2500-60mci (S-Mount) - Tray (40pcs);;Rolling;Color;"1/2.5""";2560;1920;2,2;2,2;AR0521;Board Level;BCON for MIPI;60;60;S-Mount;75
+199;106486;Basler ace;acA1280-60gm;ace Classic;Rolling;Mono;"1/1.8""";1280;1024;5,3;5,3;EV76C560;Box;GigE;60;60;C-Mount;289
+200;106487;Basler ace;acA1280-60gc;ace Classic;Rolling;Color;"1/1.8""";1280;1024;5,3;5,3;EV76C560;Box;GigE;60;60;C-Mount;309
+201;108028;Basler ace 2;a2A2590-60umBAS;ace 2 R Basic;Rolling;Mono;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;USB 3.0;60;60;C-Mount;289
+202;108029;Basler ace 2;a2A2590-60ucBAS;ace 2 R Basic;Rolling;Color;"1/2.8""";2592;1944;2,0;2,0;IMX334ROI;Box;USB 3.0;60;60;C-Mount;309

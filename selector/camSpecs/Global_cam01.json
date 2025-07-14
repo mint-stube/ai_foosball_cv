@@ -1,0 +1,1646 @@
+{
+	"pagination": {
+		"total": 107,
+		"per_page": 24,
+		"pages": 5,
+		"self": 5,
+		"first": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=1",
+		"last": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=5",
+		"next": null,
+		"prev": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=4"
+	},
+	"items": [
+		{
+			"ordernumber": 106765,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA800-510uc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca800-510uc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/OujuCSj1Mf2rxHWUuNzJk/4f039a28d2fb0d3dd3c714f9192d5cfc/106765_aca800-510uc-area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5F4X6P7ZqWyromdyajUO78/81e950975e94bb9a7242d73d199887be/106765_aca800-510uc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5F4X6P7ZqWyromdyajUO78/81e950975e94bb9a7242d73d199887be/106765_aca800-510uc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5F4X6P7ZqWyromdyajUO78/81e950975e94bb9a7242d73d199887be/106765_aca800-510uc_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3NhVKE3j8aHGqie7NI0lQM/163b310774fc9323a84fbd64f4b3a97d/106765_aca800-510uc_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3NhVKE3j8aHGqie7NI0lQM/163b310774fc9323a84fbd64f4b3a97d/106765_aca800-510uc_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3NhVKE3j8aHGqie7NI0lQM/163b310774fc9323a84fbd64f4b3a97d/106765_aca800-510uc_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 176,
+				"name": "PYTHON 500",
+				"size": {
+					"height": 2.88,
+					"width": 3.84
+				},
+				"type": "CMOS",
+				"vendor": "onsemi",
+				"optical_size": {
+					"value": "1/3.6\""
+				},
+				"resolution": {
+					"megapixel": "0.48 MP",
+					"mp": "0.48",
+					"k": null,
+					"horizontal": 800,
+					"vertical": 600
+				},
+				"pixel_size": {
+					"horizontal": 4.8,
+					"vertical": 4.8
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "511 fps",
+						"min_value": 511,
+						"max_value": 511
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108722,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520um (No-Mount)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520um-no-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6seMKKvD0AkJjQxacF367Y/bd6eef75531107b57473bbfd257c4c8d/108722_daa720-520um-no-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3xckAJaTKra0e1ODQ5cnjQ/121167921936d48f817f2bbc8a149b3e/108722_daa720-520um-no-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3xckAJaTKra0e1ODQ5cnjQ/121167921936d48f817f2bbc8a149b3e/108722_daa720-520um-no-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3xckAJaTKra0e1ODQ5cnjQ/121167921936d48f817f2bbc8a149b3e/108722_daa720-520um-no-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6mkJbYTkGdYc1xstDKlnBt/75af5dc5babf5deddbadd69921efcf68/108722_daa720-520um-no-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6mkJbYTkGdYc1xstDKlnBt/75af5dc5babf5deddbadd69921efcf68/108722_daa720-520um-no-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6mkJbYTkGdYc1xstDKlnBt/75af5dc5babf5deddbadd69921efcf68/108722_daa720-520um-no-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "8 mm",
+						"min_value": 8,
+						"max_value": 8
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108723,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520um (S-Mount)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520um-s-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1WzSYiKhE6zBFSP2IGTYSW/0db4031c6a87bc08a0d10861e9e8fa1e/108723_daa720-520um-s-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/19EmOH4bfEmIqbQ1OOF21L/8b1f0306a35b8d6367cd03a96336ad42/108723_daa720-520um-s-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/19EmOH4bfEmIqbQ1OOF21L/8b1f0306a35b8d6367cd03a96336ad42/108723_daa720-520um-s-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/19EmOH4bfEmIqbQ1OOF21L/8b1f0306a35b8d6367cd03a96336ad42/108723_daa720-520um-s-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6cWUk3QAiijHhg6KGOPGIi/5c812cfcd835df3adaa375ded0524f84/108723_daa720-520um-s-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6cWUk3QAiijHhg6KGOPGIi/5c812cfcd835df3adaa375ded0524f84/108723_daa720-520um-s-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6cWUk3QAiijHhg6KGOPGIi/5c812cfcd835df3adaa375ded0524f84/108723_daa720-520um-s-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "19.9 mm",
+						"min_value": 19.9,
+						"max_value": 19.9
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108724,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520um (CS-Mount)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520um-cs-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3FTTYgnrNkSWzLnu4pcKgW/23be81555aae4bfd3851d865c0bfece3/108724_daa720-520um-cs-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6vxRQMFQQYGHGwMziKNoC0/96d1840a3a3cea405e7a2e928a5665be/108724_daa720-520um-cs-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6vxRQMFQQYGHGwMziKNoC0/96d1840a3a3cea405e7a2e928a5665be/108724_daa720-520um-cs-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6vxRQMFQQYGHGwMziKNoC0/96d1840a3a3cea405e7a2e928a5665be/108724_daa720-520um-cs-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7ZYLBWcS6BRgp4O0iZE7L/5c15a73696ad77085af67fc369202a14/108724_daa720-520um-cs-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7ZYLBWcS6BRgp4O0iZE7L/5c15a73696ad77085af67fc369202a14/108724_daa720-520um-cs-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7ZYLBWcS6BRgp4O0iZE7L/5c15a73696ad77085af67fc369202a14/108724_daa720-520um-cs-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "19.9 mm",
+						"min_value": 19.9,
+						"max_value": 19.9
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108725,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520uc (No-Mount)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520uc-no-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/Vv6oZV7cjABaEAKpgQ771/f24368032ef3a881c05030cae736f325/108725_daa720-520uc-no-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2M1AgmYd04xcvTtDbNB7b4/9c1d615d5e4fe13ceba681200bc8c570/108725_daa720-520uc-no-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2M1AgmYd04xcvTtDbNB7b4/9c1d615d5e4fe13ceba681200bc8c570/108725_daa720-520uc-no-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2M1AgmYd04xcvTtDbNB7b4/9c1d615d5e4fe13ceba681200bc8c570/108725_daa720-520uc-no-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1cuvEwvZvnYnhU2Q46urMi/d4907adbda182d4dec27f4f91021dd37/108725_daa720-520uc-no-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1cuvEwvZvnYnhU2Q46urMi/d4907adbda182d4dec27f4f91021dd37/108725_daa720-520uc-no-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1cuvEwvZvnYnhU2Q46urMi/d4907adbda182d4dec27f4f91021dd37/108725_daa720-520uc-no-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "8 mm",
+						"min_value": 8,
+						"max_value": 8
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108726,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520uc (S-Mount)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520uc-s-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/55nblWsYhJbSSYtURPzwdt/0252d57b876ce7510ad9af4e2a4ee07e/108726_daa720-520uc-s-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7r4DwKZAmIfpiaYFthGx1q/0a002e3c613a6036eb942fa1695d5821/108726_daa720-520uc-s-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7r4DwKZAmIfpiaYFthGx1q/0a002e3c613a6036eb942fa1695d5821/108726_daa720-520uc-s-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7r4DwKZAmIfpiaYFthGx1q/0a002e3c613a6036eb942fa1695d5821/108726_daa720-520uc-s-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6uLJ15oCh85RrCPoyMdq7e/e98b14840a35dd7a512562755610f717/108726_daa720-520uc-s-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6uLJ15oCh85RrCPoyMdq7e/e98b14840a35dd7a512562755610f717/108726_daa720-520uc-s-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6uLJ15oCh85RrCPoyMdq7e/e98b14840a35dd7a512562755610f717/108726_daa720-520uc-s-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "19.9 mm",
+						"min_value": 19.9,
+						"max_value": 19.9
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108727,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "daA720-520uc (CS-Mount)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/daa720-520uc-cs-mount",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3vfQ1O9uE4Wgc7JYMLFR6t/8f7a7f529e82d0c4f7772ab64e76e9ab/108727_daa720-520uc-cs-mount_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3TmFGdtJQnMpWapW6PyCM3/8610308c1cddc520f00b81bb4d56ea2d/108727_daa720-520uc-cs-mount_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3TmFGdtJQnMpWapW6PyCM3/8610308c1cddc520f00b81bb4d56ea2d/108727_daa720-520uc-cs-mount_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3TmFGdtJQnMpWapW6PyCM3/8610308c1cddc520f00b81bb4d56ea2d/108727_daa720-520uc-cs-mount_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2ISXkSL0rKlDRL1VVMRRBr/c468e89040bd504c456591ac5102ff6b/108727_daa720-520uc-cs-mount_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2ISXkSL0rKlDRL1VVMRRBr/c468e89040bd504c456591ac5102ff6b/108727_daa720-520uc-cs-mount_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2ISXkSL0rKlDRL1VVMRRBr/c468e89040bd504c456591ac5102ff6b/108727_daa720-520uc-cs-mount_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "523 fps",
+						"min_value": 523,
+						"max_value": 523
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "19.9 mm",
+						"min_value": 19.9,
+						"max_value": 19.9
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107654,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA720-520um",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca720-520um",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1WV04lYy3DF3FyVgkkcR3S/840ea232f7adc3cbbacf72436976802e/107654_aca720-520um_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3vhsf0apKpBYfpq63r4GqZ/ff7f0a0dd2199e20ea57d414aa2f25c2/107654_aca720-520um_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3vhsf0apKpBYfpq63r4GqZ/ff7f0a0dd2199e20ea57d414aa2f25c2/107654_aca720-520um_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3vhsf0apKpBYfpq63r4GqZ/ff7f0a0dd2199e20ea57d414aa2f25c2/107654_aca720-520um_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "525 fps",
+						"min_value": 525,
+						"max_value": 525
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107655,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA720-520uc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca720-520uc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/T6n7shjfGI7iF49HRyfaP/cbbfe30311a4e9fcb00b52f38ba19921/107655_aca720-520uc_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Pvzzhzv60o83prXE3WZ56/63b032f0f27717c1ebd52b334a60f838/107655_aca720-520uc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Pvzzhzv60o83prXE3WZ56/63b032f0f27717c1ebd52b334a60f838/107655_aca720-520uc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Pvzzhzv60o83prXE3WZ56/63b032f0f27717c1ebd52b334a60f838/107655_aca720-520uc_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 117,
+				"name": "IMX287",
+				"size": {
+					"height": 3.73,
+					"width": 4.97
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.9\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 720,
+					"vertical": 540
+				},
+				"pixel_size": {
+					"horizontal": 6.9,
+					"vertical": 6.9
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "525 fps",
+						"min_value": 525,
+						"max_value": 525
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106748,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA640-750um",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca640-750um",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2rb21NYzDsujiK2yNt2fxR/d51cfda2c4419b80a4e9283fe78e8bf0/106748_aca640-750um_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6tOuT3fSPqMHb2T84PGt08/8a2ffc1dcb9b17d2ba876bbb66f8a0d8/106748_aca640-750um_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6tOuT3fSPqMHb2T84PGt08/8a2ffc1dcb9b17d2ba876bbb66f8a0d8/106748_aca640-750um_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6tOuT3fSPqMHb2T84PGt08/8a2ffc1dcb9b17d2ba876bbb66f8a0d8/106748_aca640-750um_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7hfhu2oNHeDp13gR606UEt/cdfad826c73689d4602e50e621473a54/106748_aca640-750um_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7hfhu2oNHeDp13gR606UEt/cdfad826c73689d4602e50e621473a54/106748_aca640-750um_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7hfhu2oNHeDp13gR606UEt/cdfad826c73689d4602e50e621473a54/106748_aca640-750um_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 171,
+				"name": "PYTHON 300",
+				"size": {
+					"height": 2.3,
+					"width": 3.07
+				},
+				"type": "CMOS",
+				"vendor": "onsemi",
+				"optical_size": {
+					"value": "1/4\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 640,
+					"vertical": 480
+				},
+				"pixel_size": {
+					"horizontal": 4.8,
+					"vertical": 4.8
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "751 fps",
+						"min_value": 751,
+						"max_value": 751
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106749,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA640-750uc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca640-750uc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7dUJZv2lBCTa5TwLmTJvQU/aebd40a82253ca0fc19ba3ceef5eb423/106749_aca640-750uc_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1jBd8B22hEGt1LbRHInYUx/1262761163ffb141c11cc5be655b24c9/106749_aca640-750uc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1jBd8B22hEGt1LbRHInYUx/1262761163ffb141c11cc5be655b24c9/106749_aca640-750uc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1jBd8B22hEGt1LbRHInYUx/1262761163ffb141c11cc5be655b24c9/106749_aca640-750uc_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6kcG1ThBGoqiWyfdzIQmHd/0e700333af7d5a6052786b95a7129864/106749_aca640-750uc_area-scan-camera_03.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6kcG1ThBGoqiWyfdzIQmHd/0e700333af7d5a6052786b95a7129864/106749_aca640-750uc_area-scan-camera_03.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6kcG1ThBGoqiWyfdzIQmHd/0e700333af7d5a6052786b95a7129864/106749_aca640-750uc_area-scan-camera_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 171,
+				"name": "PYTHON 300",
+				"size": {
+					"height": 2.3,
+					"width": 3.07
+				},
+				"type": "CMOS",
+				"vendor": "onsemi",
+				"optical_size": {
+					"value": "1/4\""
+				},
+				"resolution": {
+					"megapixel": "VGA",
+					"mp": "0.3",
+					"k": null,
+					"horizontal": 640,
+					"vertical": 480
+				},
+				"pixel_size": {
+					"horizontal": 4.8,
+					"vertical": 4.8
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "751 fps",
+						"min_value": 751,
+						"max_value": 751
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		}
+	],
+	"decorations": [],
+	"filters": {
+		"camera_category": {
+			"name": "camera_category",
+			"label": "Kamerakategorie",
+			"options": {
+				"Flächenkamera": "Flächenkamera"
+			}
+		},
+		"camera_series": {
+			"name": "camera_series",
+			"label": "Kamera Serie",
+			"options": {
+				"Basler dart": "Basler dart",
+				"Basler ace": "Basler ace",
+				"Basler ace 2": "Basler ace 2",
+				"Basler pulse": "Basler pulse"
+			}
+		},
+		"interface": {
+			"name": "interface",
+			"label": "Schnittstelle",
+			"options": {
+				"USB 3.0": "USB 3.0",
+				"GigE": "GigE",
+				"5GigE": "5GigE"
+			}
+		},
+		"sensor_resolution": {
+			"name": "sensor_resolution",
+			"label": "Auflösung",
+			"options": []
+		},
+		"sensor_resolution_mp": {
+			"name": "sensor_resolution_mp",
+			"label": "Auflösung (MP)",
+			"options": {
+				"0": "0",
+				"1": "1",
+				"2": "2",
+				"3": "3",
+				"5": "5",
+				"8": "8"
+			}
+		},
+		"sensor_resolution_k": {
+			"name": "sensor_resolution_k",
+			"label": "Auflösung (k)",
+			"options": []
+		},
+		"sensor_monocolor": {
+			"name": "sensor_monocolor",
+			"label": "Mono/Farbe",
+			"options": {
+				"Mono": "Mono",
+				"Color": "Color"
+			}
+		},
+		"sensor_shutter": {
+			"name": "sensor_shutter",
+			"label": "Shutter-Technologie",
+			"options": {
+				"Global Shutter": "Global Shutter",
+				"Rolling Shutter": "Rolling Shutter",
+				"Global & Rolling Shutter": "Global & Rolling Shutter"
+			}
+		},
+		"sensor_framerate": {
+			"name": "sensor_framerate",
+			"label": "Framerate",
+			"options": {
+				"14": "14",
+				"20": "20",
+				"23": "23",
+				"36": "36",
+				"37": "37",
+				"41": "41",
+				"42": "42",
+				"50": "50",
+				"51": "51",
+				"54": "54",
+				"60": "60",
+				"64": "64",
+				"72": "72",
+				"73": "73",
+				"88": "88",
+				"114": "114",
+				"134": "134",
+				"150": "150",
+				"160": "160",
+				"168": "168",
+				"203": "203",
+				"227": "227",
+				"240": "240",
+				"290": "290",
+				"291": "291",
+				"376": "376",
+				"511": "511",
+				"523": "523",
+				"525": "525",
+				"751": "751"
+			}
+		},
+		"housing": {
+			"name": "housing",
+			"label": "Housing Typ",
+			"options": {
+				"Box": "Box",
+				"Board Level": "Board Level"
+			}
+		},
+		"price": {
+			"name": "price",
+			"label": "Listenpreis",
+			"options": {
+				"169": "169",
+				"179": "179",
+				"189": "189",
+				"199": "199",
+				"204": "204",
+				"209": "209",
+				"224": "224",
+				"229": "229",
+				"249": "249",
+				"259": "259",
+				"309": "309",
+				"319": "319",
+				"329": "329",
+				"339": "339",
+				"349": "349",
+				"359": "359",
+				"369": "369",
+				"399": "399",
+				"409": "409",
+				"419": "419",
+				"429": "429",
+				"439": "439",
+				"449": "449",
+				"459": "459",
+				"469": "469",
+				"479": "479",
+				"489": "489",
+				"499": "499",
+				"509": "509",
+				"529": "529",
+				"559": "559",
+				"569": "569",
+				"579": "579",
+				"589": "589",
+				"599": "599",
+				"609": "609",
+				"619": "619",
+				"629": "629",
+				"639": "639",
+				"649": "649",
+				"669": "669",
+				"679": "679",
+				"689": "689",
+				"709": "709",
+				"739": "739",
+				"749": "749",
+				"759": "759",
+				"769": "769",
+				"779": "779",
+				"799": "799",
+				"819": "819",
+				"839": "839",
+				"869": "869",
+				"889": "889",
+				"899": "899",
+				"909": "909",
+				"919": "919",
+				"929": "929",
+				"939": "939",
+				"949": "949",
+				"959": "959",
+				"979": "979",
+				"1009": "1009",
+				"1039": "1039",
+				"1059": "1059",
+				"1099": "1099",
+				"1109": "1109",
+				"1119": "1119",
+				"1129": "1129",
+				"1139": "1139",
+				"1159": "1159",
+				"1169": "1169",
+				"1179": "1179",
+				"1199": "1199",
+				"1219": "1219",
+				"1229": "1229",
+				"1259": "1259",
+				"1309": "1309",
+				"1329": "1329",
+				"1359": "1359",
+				"1379": "1379",
+				"1399": "1399",
+				"1419": "1419",
+				"1439": "1439",
+				"1459": "1459",
+				"1479": "1479",
+				"1489": "1489",
+				"1499": "1499",
+				"1509": "1509",
+				"1519": "1519",
+				"1539": "1539",
+				"1549": "1549",
+				"1559": "1559",
+				"1589": "1589",
+				"1599": "1599",
+				"1609": "1609",
+				"1619": "1619",
+				"1629": "1629",
+				"1709": "1709",
+				"1729": "1729",
+				"1799": "1799",
+				"1819": "1819",
+				"1839": "1839",
+				"1849": "1849",
+				"1869": "1869",
+				"1929": "1929",
+				"1949": "1949",
+				"1969": "1969",
+				"1979": "1979",
+				"1989": "1989",
+				"1999": "1999",
+				"2049": "2049",
+				"2069": "2069",
+				"2139": "2139",
+				"2159": "2159",
+				"2179": "2179",
+				"2239": "2239",
+				"2279": "2279",
+				"2299": "2299",
+				"2319": "2319",
+				"2339": "2339",
+				"2349": "2349",
+				"2469": "2469",
+				"2489": "2489",
+				"2509": "2509",
+				"2569": "2569",
+				"2629": "2629",
+				"2649": "2649",
+				"2729": "2729",
+				"2749": "2749",
+				"2839": "2839",
+				"2859": "2859",
+				"2879": "2879",
+				"2889": "2889",
+				"2899": "2899",
+				"2939": "2939",
+				"2999": "2999",
+				"3099": "3099",
+				"3139": "3139",
+				"3199": "3199",
+				"3239": "3239",
+				"3649": "3649",
+				"3699": "3699",
+				"3799": "3799",
+				"3849": "3849",
+				"3899": "3899",
+				"3999": "3999",
+				"4059": "4059",
+				"4229": "4229",
+				"4249": "4249",
+				"4549": "4549",
+				"4699": "4699",
+				"4729": "4729",
+				"5149": "5149",
+				"5659": "5659",
+				"6299": "6299",
+				"6390": "6390",
+				"6399": "6399",
+				"7299": "7299",
+				"7399": "7399",
+				"9990": "9990",
+				"12499": "12499",
+				"12990": "12990",
+				"13789": "13789",
+				"15990": "15990",
+				"16789": "16789"
+			}
+		},
+		"sensorsize_optical": {
+			"name": "sensorsize_optical",
+			"label": "Sensorformat",
+			"options": {
+				"1/2,9\"": "1/2,9\"",
+				"1/1,8\"": "1/1,8\"",
+				"1/2,3\"": "1/2,3\"",
+				"1/2\"": "1/2\"",
+				"1/3.1''": "1/3.1''",
+				"1/3\"": "1/3\"",
+				"1/4\"": "1/4\"",
+				"1/1,2\"": "1/1,2\"",
+				"1/3,6\"": "1/3,6\"",
+				"2/3\"": "2/3\""
+			}
+		},
+		"sensor_pixelsize_horizontal": {
+			"name": "sensor_pixelsize_horizontal",
+			"label": "Pixelgröße (H x V)",
+			"options": {
+				"2": "2",
+				"3": "3",
+				"4": "4",
+				"5": "5",
+				"6": "6"
+			}
+		},
+		"sensor_pixelsize_vertical": {
+			"name": "sensor_pixelsize_vertical",
+			"label": "Pixelgröße (H x V)",
+			"options": {
+				"2": "2",
+				"3": "3",
+				"4": "4",
+				"5": "5",
+				"6": "6"
+			}
+		},
+		"sensorvendor": {
+			"name": "sensorvendor",
+			"label": "Sensorhersteller",
+			"options": {
+				"Sony": "Sony",
+				"onsemi": "onsemi",
+				"Gpixel": "Gpixel",
+				"e2v": "e2v"
+			}
+		},
+		"sensorname": {
+			"name": "sensorname",
+			"label": "Sensor",
+			"options": {
+				"AR0134": "AR0134",
+				"EV76C570": "EV76C570",
+				"GMAX2505": "GMAX2505",
+				"ICX618 Replacement": "ICX618 Replacement",
+				"IMX249": "IMX249",
+				"IMX265": "IMX265",
+				"IMX273": "IMX273",
+				"IMX287": "IMX287",
+				"IMX392": "IMX392",
+				"IMX546": "IMX546",
+				"IMX547": "IMX547",
+				"IMX548": "IMX548",
+				"IMX900": "IMX900",
+				"PYTHON 1300": "PYTHON 1300",
+				"PYTHON 2000": "PYTHON 2000",
+				"PYTHON 300": "PYTHON 300",
+				"PYTHON 500": "PYTHON 500"
+			}
+		}
+	}
+}

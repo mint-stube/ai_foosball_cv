@@ -1,0 +1,156 @@
+;ordernumber;model_name;focal_length;mount;sensor_format;min_object_distance;price
+0;None;;;;;;
+1;2200002148;"Azure Lens 00202XZMUV-1 F2.8 f25mm 2/3""";25 mm;C-mount;"2/3""";155,0;1859,0
+2;2200002149;"Azure Lens 00302XZMUV-1 F2.8 f35mm 2/3""";35 mm;C-mount;"2/3""";190,0;1859,0
+3;2200002150;"Azure Lens 00502XZMUV-1 F2.8 f50mm 2/3""";50 mm;C-mount;"2/3""";200,0;1859,0
+4;2200002151;"Azure Lens 00752XZMUV-1 F2.8 f75mm 2/3""";75 mm;C-mount;"2/3""";200,0;1859,0
+5;2000034830;Basler Lens C125-0418-5M f4mm;4 mm;C-mount;"1/2,5""";100,0;139,0
+6;2000034831;Basler Lens C125-0618-5M f6mm;6 mm;C-mount;"1/2,5""";100,0;139,0
+7;2000034832;Basler Lens C125-0818-5M f8mm;8 mm;C-mount;"1/2,5""";100,0;139,0
+8;2200000568;Basler Lens C23-0824-5M f8mm;8 mm;C-mount;"2/3""";100,0;106,0
+9;2200002368;Basler Lens C23-0828-16M f8mm;8 mm;C-mount;"2/3""";100,0;239,0
+10;2200000574;Basler Lens C11-0824-12M f8.5mm;8.5 mm;C-mount;"1,1""";100,0;259,0
+11;2200000178;Basler Lens C23-0816-2M f8mm;8.6 mm;C-mount;"2/3""";250,0;74,0
+12;2000034833;Basler Lens C125-1218-5M f12mm;12 mm;C-mount;"1/2,5""";200,0;139,0
+13;2200000569;Basler Lens C23-1224-5M f12mm;12 mm;C-mount;"2/3""";100,0;106,0
+14;2200000575;Basler Lens C11-1220-12M f12mm;12 mm;C-mount;"1,1""";100,0;259,0
+15;2200002369;Basler Lens C23-1228-16M f12mm;12 mm;C-mount;"2/3""";100,0;239,0
+16;2200001661;Basler Lens C12-1224-25M;12 mm;C-mount;"1,2""";;299,0
+17;2200000179;Basler Lens C23-1216-2M f12mm;12 mm;C-mount;"2/3""";100,0;74,0
+18;2000034834;Basler Lens C125-1620-5M f16mm;16 mm;C-mount;"1/2,5""";200,0;139,0
+19;2200000570;Basler Lens C23-1620-5M f16mm;16 mm;C-mount;"2/3""";200,0;106,0
+20;2200000576;Basler Lens C11-1620-12M f16mm;16 mm;C-mount;"1,1""";100,0;259,0
+21;2200002370;Basler Lens C23-1628-16M f16mm;16 mm;C-mount;"2/3""";100,0;
+22;2200001662;Basler Lens C12-1624-25M;16 mm;C-mount;"1,2""";;299,0
+23;2200000180;Basler Lens C23-1616-2M f16mm;16 mm;C-mount;"2/3""";200,0;74,0
+24;2000034835;Basler Lens C125-2522-5M f25mm;25 mm;C-mount;"1/2,5""";200,0;139,0
+25;2200000571;Basler Lens C23-2518-5M f25mm;25 mm;C-mount;"2/3""";200,0;106,0
+26;2200000577;Basler Lens C11-2520-12M f25mm;25 mm;C-mount;"1,1""";100,0;259,0
+27;2200002371;Basler Lens C23-2528-16M f25mm;25 mm;C-mount;"2/3""";100,0;239,0
+28;2200001663;Basler Lens C12-2524-25M;25 mm;C-mount;"1,2""";150,0;299,0
+29;2200000181;Basler Lens C23-2518-2M f25mm;25 mm;C-mount;"2/3""";300,0;74,0
+30;2200001070;Basler Lens F-S35-3528-45M-S-SD f35mm;35 mm;F-mount;super 35 mm;200,0;699,0
+31;2200000572;Basler Lens C23-3520-5M f35mm;35 mm;C-mount;"2/3""";200,0;106,0
+32;2200000578;Basler Lens C11-3520-12M f35mm;35 mm;C-mount;"1,1""";150,0;259,0
+33;2200002372;Basler Lens C23-3528-16M f35mm;35 mm;C-mount;"2/3""";150,0;239,0
+34;2200001664;Basler Lens C12-3524-25M;35 mm;C-mount;"1,2""";150,0;299,0
+35;2200000182;Basler Lens C23-3520-2M f35mm;35 mm;C-mount;"2/3""";350,0;74,0
+36;2200001071;Basler Lens F-S35-5028-45M-S-SD f50mm;50 mm;F-mount;super 35 mm;220,0;699,0
+37;2200000573;Basler Lens C23-5028-5M f50mm;50 mm;C-mount;"2/3""";400,0;106,0
+38;2200000579;Basler Lens C11-5020-12M f50mm;50 mm;C-mount;"1,1""";200,0;259,0
+39;2200002373;Basler Lens C23-5028-16M f50mm;50 mm;C-mount;"2/3""";200,0;239,0
+40;2200001665;Basler Lens C12-5024-25M;50 mm;C-mount;"1,2""";200,0;299,0
+41;2200000183;Basler Lens C23-5026-2M f50mm;50 mm;C-mount;"2/3""";300,0;74,0
+42;2200001072;Basler Lens F-S35-7528-45M-S-SD f75mm;75 mm;F-mount;super 35 mm;340,0;699,0
+43;2200002374;Basler Lens C23-7538-16M f75mm;75 mm;C-mount;"2/3""";250,0;239,0
+44;2200001540;"Computar Lens H0514-VSW F1.4 f5mm 1/2""";5 mm;C-mount;"1/2""";100,0;999,0
+45;2200001541;"Computar Lens M0814-VSW F1.4 f8mm 2/3""";8 mm;C-mount;"2/3""";100,0;899,0
+46;2200001547;"Computar Lens M0818-APVSW2 F1.8 f8mm 2/3""";8 mm;C-mount;"2/3""";100,0;3499,0
+47;2000034697;"Computar Lens M0814-MP2 F1.4 f8mm 2/3""";8 mm;C-mount;"2/3""";100,0;139,0
+48;2200001542;"Computar Lens M1214-VSW F1.4 f12mm 2/3""";12 mm;C-mount;"2/3""";150,0;899,0
+49;2200001548;"Computar Lens M1218-APVSW2 F1.8 12mm 2/3""";12 mm;C-mount;"2/3""";100,0;3499,0
+50;2000034698;"Computar Lens M1214-MP2 F1.4 f12mm 2/3""";12 mm;C-mount;"2/3""";150,0;139,0
+51;2200001543;"Computar Lens M1614-VSW F1.4 f16mm 2/3""";16 mm;C-mount;"2/3""";300,0;899,0
+52;2200001549;"Computar Lens M1618-APVSW2 F1.8 f16mm 2/3""";16 mm;C-mount;"2/3""";100,0;3499,0
+53;2000034699;"Computar Lens M1614-MP2 F1.4 f16mm 2/3""";16 mm;C-mount;"2/3""";300,0;129,0
+54;2200001544;"Computar Lens M2514-VSW F1.4 f25mm 2/3""";25 mm;C-mount;"2/3""";300,0;899,0
+55;2200001550;"Computar Lens M2518-APVSW2 F1.8 f25mm 2/3""";25 mm;C-mount;"2/3""";100,0;3499,0
+56;2000034700;"Computar Lens M2514-MP2 F1.4 f25mm 2/3""";25 mm;C-mount;"2/3""";300,0;107,0
+57;2200001545;"Computar Lens M3514-VSW F1.4 f35mm 2/3""";35 mm;C-mount;"2/3""";300,0;899,0
+58;2000034701;"Computar Lens M3514-MP F1.4 f35mm 2/3""";35 mm;C-mount;"2/3""";300,0;179,0
+59;2200001546;"Computar Lens M5018-VSW F1.8 f50mm 2/3""";50 mm;C-mount;"2/3""";500,0;899,0
+60;2000034702;"Computar Lens M5018-MP2 F1.8 f50mm 2/3""";50 mm;C-mount;"2/3""";500,0;129,0
+61;2000034703;"Computar Lens M7528-MP F2.8 f75mm 2/3""";75 mm;C-mount;"2/3""";300,0;189,0
+62;2000035065;"Edmund Optics Lens CFFL F1.3 f8.5mm 2/3""";8.5 mm;C-mount;"2/3""";100,0;329,0
+63;2000035066;"Edmund Optics Lens CFFL F1.8 f12mm 2/3""";12 mm;C-mount;"2/3""";200,0;329,0
+64;2000035067;"Edmund Optics Lens CFFL F1.4 f16mm 2/3""";16 mm;C-mount;"2/3""";100,0;329,0
+65;2000035068;"Edmund Optics Lens CFFL F1.4 f25mm 2/3""";25 mm;C-mount;"2/3""";100,0;329,0
+66;2000035069;"Edmund Optics Lens CFFL F1.7 f35mm 2/3""";35 mm;C-mount;"2/3""";165,0;329,0
+67;2000035070;"Edmund Optics Lens CFFL F2.0 f50mm 2/3""";50 mm;C-mount;"2/3""";250,0;439,0
+68;2000036060;"Evetar Lens M13B02118IR F1.8 f2.1mm 1/3""";2.1 mm;S-mount;"1/3""";100,0;27,0
+69;2000036061;"Evetar Lens M13B02118W F1.8 f2.1mm 1/3""";2.1 mm;S-mount;"1/3""";100,0;28,0
+70;2200001056;"Evetar Lens E3417A F2.4 f2.5mm 1/1.8""";2.5 mm;S-mount;"1/1,8""";300,0;33,0
+71;2200001057;"Evetar Lens E3417C IR-Cut F2.4 f2.5mm 1/1.8""";2.5 mm;S-mount;"1/1,8""";300,0;33,0
+72;2000035611;"Evetar Lens M13B02820IR F2.0 f2.8mm 1/3""";2.8 mm;S-mount;"1/3""";100,0;15,0
+73;2000035612;"Evetar Lens M13B02820W F2.0 f2.8mm 1/3""";2.8 mm;S-mount;"1/3""";100,0;16,0
+74;2000036382;"Evetar Lens M118B029528IR F2.8 f2.95mm 1/1.8""";3 mm;S-mount;"1/1,8""";300,0;51,0
+75;2000036383;"Evetar Lens M118B029528W F2.8 f2.95mm 1/1.8""";3 mm;S-mount;"1/1,8""";300,0;53,0
+76;2000035614;"Evetar Lens M13B03618IR F1.8 f3.6mm 1/3""";3.6 mm;S-mount;"1/3""";200,0;9,6
+77;2000035615;"Evetar Lens M13B03618W F1.8 f3.6mm 1/3""";3.6 mm;S-mount;"1/3""";200,0;10,6
+78;2000036384;"Evetar Lens M118B0418IR F1.8 f4mm 1/1.8""";4 mm;S-mount;"1/1,8""";200,0;32,0
+79;2000036385;"Evetar Lens M118B0418W F1.8 f4mm 1/1.8""";4 mm;S-mount;"1/1,8""";200,0;33,0
+80;2200001058;"Evetar Lens E3360A F2.0 f4.0mm 1/1.8""";4 mm;S-mount;"1/1,8""";300,0;33,0
+81;2200000589;"Evetar Lens E3360D IR-Cut F2.0 f4mm 1/1.8""";4 mm;S-mount;"1/1,8""";300,0;33,0
+82;2000035175;"Evetar Lens M13B04218IR F1.8 f4.2mm 1/3""";4.2 mm;S-mount;"1/3""";200,0;9,6
+83;2000035176;"Evetar Lens M13B04218W F1.8 f4.2mm 1/3""";4.2 mm;S-mount;"1/3""";200,0;10,6
+84;2000035177;"Evetar Lens M13B0618IR F1.8 f6mm 1/3""";6 mm;S-mount;"1/3""";200,0;9,6
+85;2000035178;"Evetar Lens M13B0618W F1.8 f6mm 1/3""";6 mm;S-mount;"1/3""";200,0;10,6
+86;2200001060;"Evetar Lens E3388 F2.6 f7.8mm 1/1.8""";7.8 mm;S-mount;"1/1,8""";500,0;33,0
+87;2200001061;"Evetar Lens E3388 IR-Cut F2.6 f7.8mm 1/1.8""";7.8 mm;S-mount;"1/1,8""";500,0;33,0
+88;2000036388;"Evetar Lens N118B0818IRM12 F1.8 f8mm 1/1.8""";8 mm;S-mount;"1/1,8""";500,0;34,0
+89;2000036389;"Evetar Lens N118B0818WM12 F1.8 f8mm 1/1.8""";8 mm;S-mount;"1/1,8""";500,0;35,0
+90;2000035179;"Evetar Lens M13B0818IR F1.8 f8mm 1/3""";8 mm;S-mount;"1/3""";200,0;9,6
+91;2000035180;"Evetar Lens M13B0818W F1.8 f8mm 1/3""";8 mm;S-mount;"1/3""";200,0;10,6
+92;2000035181;"Evetar Lens M13B1218IR F1.8 f12mm 1/3""";12 mm;S-mount;"1/3""";200,0;9,6
+93;2000035182;"Evetar Lens M13B1218W F1.8 f12mm 1/3""";12 mm;S-mount;"1/3""";200,0;10,6
+94;2000035191;"Evetar Lens M12B1216IR F1.6 f12mm 1/2""";12 mm;S-mount;"1/2""";200,0;31,0
+95;2000035192;"Evetar Lens M12B1216W F1.6 f12mm 1/2""";12 mm;S-mount;"1/2""";200,0;32,0
+96;2000035183;"Evetar Lens M13B1618IR F1.8 f16mm 1/3""";16 mm;S-mount;"1/3""";200,0;9,6
+97;2000035184;"Evetar Lens M13B1618W F1.8 f16mm 1/3""";16 mm;S-mount;"1/3""";200,0;10,6
+98;2000036374;"Evetar Lens E3401B F1.83 f16.3mm 1/2""";16.3 mm;S-mount;"1/2""";500,0;31,0
+99;2000036375;"Evetar Lens E3401C F1.83 f16.3mm 1/2""";16.3 mm;S-mount;"1/2""";500,0;32,0
+100;2000036376;"Evetar Lens M12B2524IRM12 F2.4 f25mm 1/2""";25 mm;S-mount;"1/2""";400,0;36,0
+101;2000036377;"Evetar Lens M12B2524WM12  F2.4 f25mm 1/2""";25 mm;S-mount;"1/2""";400,0;38,0
+102;2200000694;"Fujinon Lens CF8ZA-1S F1.8 f8mm 1.2""";8 mm;C-mount;"1,2""";100,0;789,0
+103;2200000695;"Fujinon Lens CF12ZA-1S F1.8 f12mm 1.2""";12 mm;C-mount;"1,2""";100,0;759,0
+104;2200000696;"Fujinon Lens CF16ZA-1S F1.8 f16mm 1.2""";16 mm;C-mount;"1,2""";100,0;759,0
+105;2200000697;"Fujinon Lens CF25ZA-1S F1.8 f25mm 4/3""";25 mm;C-mount;"4/3""";100,0;699,0
+106;2200000698;"Fujinon Lens CF35ZA-1S F1.8 f35mm 4/3""";35 mm;C-mount;"4/3""";200,0;699,0
+107;2200000699;"Fujinon Lens CF50ZA-1S F2.4 f50mm 4/3""";50 mm;C-mount;"4/3""";200,0;699,0
+108;2000034586;"Kowa Lens LM6HC F1.8 f6mm 1""";6 mm;C-mount;"1""";100,0;589,0
+109;2000034588;"Kowa Lens LM8HC F1.4 f8mm 1""";8 mm;C-mount;"1""";100,0;439,0
+110;2000034589;"Kowa Lens LM12HC F1.4 f12.5mm 1""";12.5 mm;C-mount;"1""";300,0;349,0
+111;2000034590;"Kowa Lens LM16HC F1.4 f16mm 1""";16 mm;C-mount;"1""";300,0;419,0
+112;2000034591;"Kowa Lens LM25HC F1.4 f25mm 1""";25 mm;C-mount;"1""";300,0;409,0
+113;2000034592;"Kowa Lens LM35HC F1.4 f35mm 1""";35 mm;C-mount;"1""";300,0;409,0
+114;2000034593;"Kowa Lens LM50HC F1.4 f50mm 1""";50 mm;C-mount;"1""";500,0;419,0
+115;2000034594;"Kowa Lens LM75HC F1.8 f75mm 1""";75 mm;C-mount;"1""";1000,0;419,0
+116;2000034902;"Ricoh Lens FL-CC0614A-2M F1.4 f6mm 2/3""";6 mm;C-mount;"2/3""";100,0;189,0
+117;2000034903;"Ricoh Lens FL-CC0814A-2M F1.4 f8mm 2/3""";8 mm;C-mount;"2/3""";100,0;189,0
+118;2000034904;"Ricoh Lens FL-CC1214A-2M F1.4 f12mm 2/3""";12 mm;C-mount;"2/3""";100,0;169,0
+119;2000030497;"Ricoh Lens FL-CC1614-2M F1.4 f16mm 2/3""";16 mm;C-mount;"2/3""";250,0;169,0
+120;2000024600;"Ricoh Lens FL-CC2514-2M F1.4 f25mm 2/3""";25 mm;C-mount;"2/3""";250,0;179,0
+121;2000018792;"Ricoh Lens FL-CC3516-2M F1.6 f35mm 2/3""";35 mm;C-mount;"2/3""";400,0;179,0
+122;2000024599;"Ricoh Lens FL-CC5028-2M F2.8 f50mm 2/3""";50 mm;C-mount;"2/3""";900,0;189,0
+123;2200001844;Schneider Lens PYRITE 4.0/60 V38;60 mm;V38-mount;62,5 mm;156,0;770,0
+124;2200001845;Schneider Lens PYRITE 4.0/80 V38;80 mm;V38-mount;82 mm;214,0;426,0
+125;2200001846;Schneider Lens PYRITE 5.6/80/1.0x V38;80 mm;V38-mount;100 mm;98,0;914,0
+126;2200001854;Schneider Lens PYRITE 4.5/85/0.5x-2.0x V38;85 mm;V38-mount;62,5 mm;100,0;3354,0
+127;2200001827;Schneider Lens SAPPHIRE 0.10/1.75x V70;87.5 mm;V70-mount;62,5 mm;;4298,0
+128;2200001828;Schneider Lens SAPPHIRE 0.10/1.75x V70-BS;88.2 mm;V70-mount;62,5 mm;;5260,0
+129;2200001915;Schneider Lens ZIRCONIA 0.09/1.0x V48;89 mm;V48-mount;62 mm;140,0;2070,0
+130;2200001847;Schneider Lens PYRITE 4.5/90 V38;90 mm;V38-mount;90 mm;246,0;798,0
+131;2200001848;Schneider Lens PYRITE 4.5/90/0.3x V38;90 mm;V38-mount;90 mm;240,0;826,0
+132;2200001914;Schneider Lens ZIRCONIA 0.07/0.7x V48;91 mm;V48-mount;62 mm;235,0;2070,0
+133;2200001912;Schneider Lens ZIRCONIA 0.03/0.2x V48;92 mm;V48-mount;62 mm;511,0;1968,0
+134;2200001916;Schneider Lens ZIRCONIA XL 0.10/2.0x V48;92 mm;V48-mount;62 mm;106,0;2070,0
+135;2200001917;Schneider Lens ZIRCONIA XL 0.10/2.0x V48-BS;92 mm;V48-mount;62 mm;118,0;3050,0
+136;2200001819;Schneider Lens SAPPHIRE 0.007/0.07x V70;95 mm;V70-mount;62,5 mm;;3456,0
+137;2200001820;Schneider Lens SAPPHIRE 0.02/0.23x V70;95.1 mm;V70-mount;62,5 mm;;3456,0
+138;2200001821;Schneider Lens SAPPHIRE 0.03/0.29x V70;95.5 mm;V70-mount;62,5 mm;;3456,0
+139;2200001822;Schneider Lens SAPPHIRE 0.04/0.35x V70;95.5 mm;V70-mount;62,5 mm;;3456,0
+140;2200001823;Schneider Lens SAPPHIRE 0.05/0.5x V70;96.2 mm;V70-mount;62,5 mm;;3456,0
+141;2200001824;Schneider Lens SAPPHIRE 0.06/0.7x V70;97 mm;V70-mount;62,5 mm;;3456,0
+142;2200001829;Schneider Lens SAPPHIRE XL 0.09/1.43x V70;97 mm;V70-mount;62,5 mm;;3618,0
+143;2200001825;Schneider Lens SAPPHIRE 0.08/0.875x V70;97.5 mm;V70-mount;62,5 mm;;3456,0
+144;2200001826;Schneider Lens SAPPHIRE 0.09/1.143x V70;97.5 mm;V70-mount;62,5 mm;;3618,0
+145;2200001849;Schneider Lens PYRITE 5.6/100 V38;100 mm;V38-mount;100 mm;283,0;610,0
+146;2200001910;Schneider Lens ZIRCONIA XL 0.03/0.33x V48;104 mm;V48-mount;82 mm;334,0;2194,0
+147;2200001913;Schneider Lens ZIRCONIA 0.05/0.5x V48;104 mm;V48-mount;82 mm;383,0;1958,0
+148;2200001850;Schneider Lens PYRITE 5.6/120/0.33x V38;120 mm;V38-mount;90 mm;409,0;952,0
+149;2200001851;Schneider Lens PYRITE 5.6/120/0.5x V38;120 mm;V38-mount;90 mm;269,0;952,0
+150;2200001852;Schneider Lens PYRITE 5.6/120/0.75x V38;120 mm;V38-mount;90 mm;228,0;952,0
+151;2200001853;Schneider Lens PYRITE 5.6/120/1.0x V38;120 mm;V38-mount;90 mm;198,0;952,0
+152;2200000960;VST Lens VS-HX3535 F3.5 f35mm Super 35;35 mm;F-mount;super 35 mm;330,4;1709,0
+153;2200000961;VST Lens VS-HX5035 F3.5 f50mm Super 35;50 mm;F-mount;super 35 mm;488,8;1309,0
+154;2200000962;VST Lens VS-HX7535 F3.5 f75mm Super 35;75 mm;F-mount;super 35 mm;724,7;1529,0

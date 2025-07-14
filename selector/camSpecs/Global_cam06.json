@@ -1,0 +1,3087 @@
+{
+	"pagination": {
+		"total": 107,
+		"per_page": 24,
+		"pages": 5,
+		"self": 1,
+		"first": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=1",
+		"last": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=5",
+		"next": "https://tools.baslerweb.com/api/v1/cameras?country=DE&requesting_application=CS&limit=24&gf=%7B%22camera_category%22%3A%22Fl%C3%A4chenkamera%22%2C%22price%22%3A%22600%22%2C%22sensor_framerate%22%3A0%2C%22sensor_shutter%22%3A%22Global%20Shutter%22%7D&option=filter&page=2",
+		"prev": null
+	},
+	"items": [
+		{
+			"ordernumber": 109466,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA2840-14gm (Mono)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/dma2840-14gm-mono",
+			"main_image": {
+				"original_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp",
+				"large_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp",
+				"small_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/5tzWI3pR6C8xukwo2L4HZy/e22235393c1b240a37810bae296ca293/109466_dmA2840-14gm_camera_01_.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/3Mv71GOFIKl6yqsCKRU9qq/e4801bdbf6e0ebff92456e72501097b8/bundle_109466_dmA2840-14gm_dartm-bundle_02.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/3Mv71GOFIKl6yqsCKRU9qq/e4801bdbf6e0ebff92456e72501097b8/bundle_109466_dmA2840-14gm_dartm-bundle_02.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/3Mv71GOFIKl6yqsCKRU9qq/e4801bdbf6e0ebff92456e72501097b8/bundle_109466_dmA2840-14gm_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/6VdYbzvmiMmUEM4NA0faSg/c98db66b2c3a163f6f2242a01270ad98/bundle_109466_dmA2840-14gm_dartm-bundle_03.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/6VdYbzvmiMmUEM4NA0faSg/c98db66b2c3a163f6f2242a01270ad98/bundle_109466_dmA2840-14gm_dartm-bundle_03.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/6VdYbzvmiMmUEM4NA0faSg/c98db66b2c3a163f6f2242a01270ad98/bundle_109466_dmA2840-14gm_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 151,
+				"name": "IMX546",
+				"size": {
+					"height": 7.78,
+					"width": 7.78
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "2/3\""
+				},
+				"resolution": {
+					"megapixel": "8.3 MP",
+					"mp": "8.1",
+					"k": null,
+					"horizontal": 2840,
+					"vertical": 2840
+				},
+				"pixel_size": {
+					"horizontal": 2.74,
+					"vertical": 2.74
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "14 fps",
+						"min_value": 14,
+						"max_value": 14
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109467,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA2840-14gc (Color)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/dma2840-14gc-color",
+			"main_image": {
+				"original_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp",
+				"large_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp",
+				"small_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/61h8gXCaD9TcBbgPFJSEXz/87b55c374ad13163e0e8878fcff21dd7/109467_dmA2840-14gc_camera_01.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/rsuVapm9ojd2pLoVvh8vb/dfd0dd225d8e94547c5b31ee3f48b2b5/bundle_109467_dmA2840-14gc_dartm-bundle_02.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/rsuVapm9ojd2pLoVvh8vb/dfd0dd225d8e94547c5b31ee3f48b2b5/bundle_109467_dmA2840-14gc_dartm-bundle_02.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/rsuVapm9ojd2pLoVvh8vb/dfd0dd225d8e94547c5b31ee3f48b2b5/bundle_109467_dmA2840-14gc_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/3FCwFl47ABJcK2y0RolIOy/1167a544e0c91dd2a37558d639ae62d5/bundle_109467_dmA2840-14gc_dartm-bundle_03.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/3FCwFl47ABJcK2y0RolIOy/1167a544e0c91dd2a37558d639ae62d5/bundle_109467_dmA2840-14gc_dartm-bundle_03.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/3FCwFl47ABJcK2y0RolIOy/1167a544e0c91dd2a37558d639ae62d5/bundle_109467_dmA2840-14gc_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 151,
+				"name": "IMX546",
+				"size": {
+					"height": 7.78,
+					"width": 7.78
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "2/3\""
+				},
+				"resolution": {
+					"megapixel": "8.3 MP",
+					"mp": "8.1",
+					"k": null,
+					"horizontal": 2840,
+					"vertical": 2840
+				},
+				"pixel_size": {
+					"horizontal": 2.74,
+					"vertical": 2.74
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "14 fps",
+						"min_value": 14,
+						"max_value": 14
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108366,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2600-20gmBAS",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2600-20gmbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/6d4AbMXwMPMiqi7J2jbTlp/710d89bc12009505ec41d2636b7589b8/108366_a2a2600-20gmbas_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/OjYgKUympYDINXPN3DyKc/c2fd31fa464aa48457a024ce7e5fcc47/108366_a2a2600-20gmbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/OjYgKUympYDINXPN3DyKc/c2fd31fa464aa48457a024ce7e5fcc47/108366_a2a2600-20gmbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/OjYgKUympYDINXPN3DyKc/c2fd31fa464aa48457a024ce7e5fcc47/108366_a2a2600-20gmbas_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 178,
+				"name": "GMAX2505",
+				"size": {
+					"height": 5.42,
+					"width": 6.52
+				},
+				"type": "CMOS",
+				"vendor": "Gpixel",
+				"optical_size": {
+					"value": "1/2\""
+				},
+				"resolution": {
+					"megapixel": "5.6 MP",
+					"mp": "5.6",
+					"k": null,
+					"horizontal": 2600,
+					"vertical": 2160
+				},
+				"pixel_size": {
+					"horizontal": 2.5,
+					"vertical": 2.5
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "20 fps",
+						"min_value": 20,
+						"max_value": 20
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108367,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2600-20gcBAS",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2600-20gcbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7H3zkwNHbIb5Ce26LgSphM/5f8bc3df57eaeda608a71d12b668ad69/108367_a2a2600-20gcbas_area-scan-camera_02.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3Sc3v6GbDH7KDY3VWdjaFL/7cf337d0742218d8e63b0b2019f20024/108367_a2A2600-20gcBAS_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3Sc3v6GbDH7KDY3VWdjaFL/7cf337d0742218d8e63b0b2019f20024/108367_a2A2600-20gcBAS_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3Sc3v6GbDH7KDY3VWdjaFL/7cf337d0742218d8e63b0b2019f20024/108367_a2A2600-20gcBAS_area-scan-camera_01.webp"
+				}
+			],
+			"sensor": {
+				"id": 178,
+				"name": "GMAX2505",
+				"size": {
+					"height": 5.42,
+					"width": 6.52
+				},
+				"type": "CMOS",
+				"vendor": "Gpixel",
+				"optical_size": {
+					"value": "1/2\""
+				},
+				"resolution": {
+					"megapixel": "5.6 MP",
+					"mp": "5.6",
+					"k": null,
+					"horizontal": 2600,
+					"vertical": 2160
+				},
+				"pixel_size": {
+					"horizontal": 2.5,
+					"vertical": 2.5
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "20 fps",
+						"min_value": 20,
+						"max_value": 20
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108368,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2600-20gmPRO",
+			"product_line": "ace 2 R Pro",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2600-20gmpro",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4DL5EIdNqASQz8gtVEdnms/29e3bf9e1ec074ad90c430b2554a4d02/108368_a2a2600-20gmpro_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1ZIan9u6Udc2xAZhm8Wnaq/c084b0114b0360cf9dbaae80c55e5d73/108368_a2a2600-20gmpro_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1ZIan9u6Udc2xAZhm8Wnaq/c084b0114b0360cf9dbaae80c55e5d73/108368_a2a2600-20gmpro_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1ZIan9u6Udc2xAZhm8Wnaq/c084b0114b0360cf9dbaae80c55e5d73/108368_a2a2600-20gmpro_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 178,
+				"name": "GMAX2505",
+				"size": {
+					"height": 5.42,
+					"width": 6.52
+				},
+				"type": "CMOS",
+				"vendor": "Gpixel",
+				"optical_size": {
+					"value": "1/2\""
+				},
+				"resolution": {
+					"megapixel": "5.6 MP",
+					"mp": "5.6",
+					"k": null,
+					"horizontal": 2600,
+					"vertical": 2160
+				},
+				"pixel_size": {
+					"horizontal": 2.5,
+					"vertical": 2.5
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "20 fps",
+						"min_value": 20,
+						"max_value": 20
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 108369,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2600-20gcPRO",
+			"product_line": "ace 2 R Pro",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2600-20gcpro",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7cikEBPXyOeuSmkggjKI6u/4a64a19546e9472a6b180f3d7b6893ca/108369_a2a2600-20gcpro_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/624SOoMZwpHzVM6SA80aVw/63dc46ee801a881721f9f02cb8d23881/108369_a2a2600-20gcpro_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/624SOoMZwpHzVM6SA80aVw/63dc46ee801a881721f9f02cb8d23881/108369_a2a2600-20gcpro_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/624SOoMZwpHzVM6SA80aVw/63dc46ee801a881721f9f02cb8d23881/108369_a2a2600-20gcpro_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 178,
+				"name": "GMAX2505",
+				"size": {
+					"height": 5.42,
+					"width": 6.52
+				},
+				"type": "CMOS",
+				"vendor": "Gpixel",
+				"optical_size": {
+					"value": "1/2\""
+				},
+				"resolution": {
+					"megapixel": "5.6 MP",
+					"mp": "5.6",
+					"k": null,
+					"horizontal": 2600,
+					"vertical": 2160
+				},
+				"pixel_size": {
+					"horizontal": 2.5,
+					"vertical": 2.5
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "20 fps",
+						"min_value": 20,
+						"max_value": 20
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109468,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA2448-23gm (Mono)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/dma2448-23gm-mono",
+			"main_image": {
+				"original_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp",
+				"large_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp",
+				"small_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/4jJYiHvMWjnTgeVDJtmnXp/992a6d66ad91c7d89cb7e56b319c45f9/109468_dmA2448-23gm_camera_01_.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1umKSmq6SddJL0GceUrimq/9ca929fc491e6f7f3629d2b32624dfb1/bundle_109468_dmA2448-23gm_dartm-bundle_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1umKSmq6SddJL0GceUrimq/9ca929fc491e6f7f3629d2b32624dfb1/bundle_109468_dmA2448-23gm_dartm-bundle_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1umKSmq6SddJL0GceUrimq/9ca929fc491e6f7f3629d2b32624dfb1/bundle_109468_dmA2448-23gm_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/4hmjscIaBgKtDEd2ZkY4g2/b75c481fdc7dc46c63665bafd514f93f/bundle_109468_dmA2448-23gm_dartm-bundle_03.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/4hmjscIaBgKtDEd2ZkY4g2/b75c481fdc7dc46c63665bafd514f93f/bundle_109468_dmA2448-23gm_dartm-bundle_03.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/4hmjscIaBgKtDEd2ZkY4g2/b75c481fdc7dc46c63665bafd514f93f/bundle_109468_dmA2448-23gm_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 122,
+				"name": "IMX547",
+				"size": {
+					"height": 5.61,
+					"width": 6.71
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.8\""
+				},
+				"resolution": {
+					"megapixel": "5 MP",
+					"mp": "5",
+					"k": null,
+					"horizontal": 2448,
+					"vertical": 2048
+				},
+				"pixel_size": {
+					"horizontal": 2.74,
+					"vertical": 2.74
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "23 fps",
+						"min_value": 23,
+						"max_value": 23
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109469,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA2448-23gc (Color)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/dma2448-23gc-color",
+			"main_image": {
+				"original_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp",
+				"large_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp",
+				"small_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/40n9NkutJ89LwgTM1xkF5T/b7e2ae63b618c5346f935af1be0eb73d/109469_dmA2448-23gc_camera_01.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/5e55ULpuBsoEIGcyXcFhXx/04daa9b0b7fbffaa48d19625e43ca230/bundle_109469_dmA2448-23gc_dartm-bundle_02.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/5e55ULpuBsoEIGcyXcFhXx/04daa9b0b7fbffaa48d19625e43ca230/bundle_109469_dmA2448-23gc_dartm-bundle_02.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/5e55ULpuBsoEIGcyXcFhXx/04daa9b0b7fbffaa48d19625e43ca230/bundle_109469_dmA2448-23gc_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "https://images.contentful.com/dg51pdwahxgw/2UYozEPZhB4T6KpaBQ9L07/0d8080d21aeb084fe06be294108b32af/bundle_109469_dmA2448-23gc_dartm-bundle_03.webp",
+					"large_url": "https://images.contentful.com/dg51pdwahxgw/2UYozEPZhB4T6KpaBQ9L07/0d8080d21aeb084fe06be294108b32af/bundle_109469_dmA2448-23gc_dartm-bundle_03.webp",
+					"small_url": "https://images.contentful.com/dg51pdwahxgw/2UYozEPZhB4T6KpaBQ9L07/0d8080d21aeb084fe06be294108b32af/bundle_109469_dmA2448-23gc_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 122,
+				"name": "IMX547",
+				"size": {
+					"height": 5.61,
+					"width": 6.71
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.8\""
+				},
+				"resolution": {
+					"megapixel": "5 MP",
+					"mp": "5",
+					"k": null,
+					"horizontal": 2448,
+					"vertical": 2048
+				},
+				"pixel_size": {
+					"horizontal": 2.74,
+					"vertical": 2.74
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "23 fps",
+						"min_value": 23,
+						"max_value": 23
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107214,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA2040-35gm",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca2040-35gm",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6g9h452VEykDdTQi6x8Zh4/2319585b1d57be3d910ab82c20b6eb5a/107214_aca2040-35gm_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/Ys1FvDbatH0efy88qKuaV/81da6e80b915e765947916219e962ead/107214_aca2040-35gm_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/Ys1FvDbatH0efy88qKuaV/81da6e80b915e765947916219e962ead/107214_aca2040-35gm_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/Ys1FvDbatH0efy88qKuaV/81da6e80b915e765947916219e962ead/107214_aca2040-35gm_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 126,
+				"name": "IMX265",
+				"size": {
+					"height": 5.3,
+					"width": 7.07
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.8\""
+				},
+				"resolution": {
+					"megapixel": "3 MP",
+					"mp": "3",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "36 fps",
+						"min_value": 36,
+						"max_value": 36
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 mm",
+						"min_value": 42,
+						"max_value": 42
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107215,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA2040-35gc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca2040-35gc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/57pJ6WZ3g1y3KczUI6trxP/e6ef67437db645d2af0894b154a8a35f/107215_aca2040-35gc_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6nza8kzSGWyJ4EUP2Eiy5j/f476adc2a70d97881239964a3e8d9b00/107215_aca2040-35gc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6nza8kzSGWyJ4EUP2Eiy5j/f476adc2a70d97881239964a3e8d9b00/107215_aca2040-35gc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/6nza8kzSGWyJ4EUP2Eiy5j/f476adc2a70d97881239964a3e8d9b00/107215_aca2040-35gc_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 126,
+				"name": "IMX265",
+				"size": {
+					"height": 5.3,
+					"width": 7.07
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.8\""
+				},
+				"resolution": {
+					"megapixel": "3 MP",
+					"mp": "3",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "36 fps",
+						"min_value": 36,
+						"max_value": 36
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 mm",
+						"min_value": 42,
+						"max_value": 42
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109470,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2048-37gmBAS​",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2048-37gmbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/49wvBMgooYhz5L8Bg3SR5f/162c06ce3b2864c8098bc6e511b21cff/109470_a2A2048-37gmbas_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5aucNxinPZfJu2pEOV5roh/7cf8cc0ea2535ce5f9abaed5dd2550f4/109470_a2A2048-37gmbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5aucNxinPZfJu2pEOV5roh/7cf8cc0ea2535ce5f9abaed5dd2550f4/109470_a2A2048-37gmbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5aucNxinPZfJu2pEOV5roh/7cf8cc0ea2535ce5f9abaed5dd2550f4/109470_a2A2048-37gmbas_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 111,
+				"name": "IMX900",
+				"size": {
+					"height": 3.46,
+					"width": 4.61
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/3.1''"
+				},
+				"resolution": {
+					"megapixel": "3.2 MP",
+					"mp": "3.2",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 2.25,
+					"vertical": 2.25
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "37 fps",
+						"min_value": 37,
+						"max_value": 37
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109471,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2048-37gcBAS​",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2048-37gcbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3gOdBWAA44M4y3OvigKfSE/972c77911b88d4bf08fb6d3014d7aef7/109471_a2A2048-37gcbas_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2Iq6OMQJKKsREOko2tO303/c69c5b33af6976da29df541e2264e9e1/109471_a2A2048-37gcbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2Iq6OMQJKKsREOko2tO303/c69c5b33af6976da29df541e2264e9e1/109471_a2A2048-37gcbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/2Iq6OMQJKKsREOko2tO303/c69c5b33af6976da29df541e2264e9e1/109471_a2A2048-37gcbas_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 111,
+				"name": "IMX900",
+				"size": {
+					"height": 3.46,
+					"width": 4.61
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/3.1''"
+				},
+				"resolution": {
+					"megapixel": "3.2 MP",
+					"mp": "3.2",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 2.25,
+					"vertical": 2.25
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "37 fps",
+						"min_value": 37,
+						"max_value": 37
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109472,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2048-37gmPRO",
+			"product_line": "ace 2 R Pro",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2048-37gmpro",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/1z5o10fyRbuTHzVFGHORNy/f5379901b5d193e09ab982a2525f987e/109472_a2A2048-37gmpro_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5xm9rnABdLNN1WdpCTJ3Zh/23b7e6fd48c382460957b453fe6d0bbd/109472_a2A2048-37gmpro_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5xm9rnABdLNN1WdpCTJ3Zh/23b7e6fd48c382460957b453fe6d0bbd/109472_a2A2048-37gmpro_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/5xm9rnABdLNN1WdpCTJ3Zh/23b7e6fd48c382460957b453fe6d0bbd/109472_a2A2048-37gmpro_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 111,
+				"name": "IMX900",
+				"size": {
+					"height": 3.46,
+					"width": 4.61
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/3.1''"
+				},
+				"resolution": {
+					"megapixel": "3.2 MP",
+					"mp": "3.2",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 2.25,
+					"vertical": 2.25
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "37 fps",
+						"min_value": 37,
+						"max_value": 37
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109473,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A2048-37gcPRO​",
+			"product_line": "ace 2 R Pro",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a2048-37gcpro",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/01jWuNbb0vkFOtNeuaj1Jz/0537103c0b94191a1b3d6f87faff3bc7/109473_a2A2048-37gcpro_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/yneke8fkQl5jXkA3fgTgB/b6efa4ebd4668e75119314c99d7417ec/109473_a2A2048-37gcpro_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/yneke8fkQl5jXkA3fgTgB/b6efa4ebd4668e75119314c99d7417ec/109473_a2A2048-37gcpro_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/yneke8fkQl5jXkA3fgTgB/b6efa4ebd4668e75119314c99d7417ec/109473_a2A2048-37gcpro_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 111,
+				"name": "IMX900",
+				"size": {
+					"height": 3.46,
+					"width": 4.61
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/3.1''"
+				},
+				"resolution": {
+					"megapixel": "3.2 MP",
+					"mp": "3.2",
+					"k": null,
+					"horizontal": 2048,
+					"vertical": 1536
+				},
+				"pixel_size": {
+					"horizontal": 2.25,
+					"vertical": 2.25
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "37 fps",
+						"min_value": 37,
+						"max_value": 37
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106909,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA1920-40um",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca1920-40um",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1pl4bhqQqGDZzyWZkXUxMA/bdfe66a46397ab2c0c94dab21a2f0aa3/106909_aca1920-40um_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1xIx8XlYIxz5mem48xWGDH/35cb09d1ddfdff04a0ca417705cb0c7d/106909_aca1920-40um_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1xIx8XlYIxz5mem48xWGDH/35cb09d1ddfdff04a0ca417705cb0c7d/106909_aca1920-40um_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1xIx8XlYIxz5mem48xWGDH/35cb09d1ddfdff04a0ca417705cb0c7d/106909_aca1920-40um_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 137,
+				"name": "IMX249",
+				"size": {
+					"height": 7.13,
+					"width": 11.33
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.2\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 5.86,
+					"vertical": 5.86
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "41 fps",
+						"min_value": 41,
+						"max_value": 41
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106910,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA1920-40uc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca1920-40uc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/5vuifFIzuWVvhu52o3rLlD/1e542ae330926ccd4a6bb5b9f6fe1077/106910_aca1920-40uc_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2xEK0UFr84TfEVgFVDG1KL/517e56ce4fb75f78c2a1985fe72765c6/106910_aca1920-40uc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2xEK0UFr84TfEVgFVDG1KL/517e56ce4fb75f78c2a1985fe72765c6/106910_aca1920-40uc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/2xEK0UFr84TfEVgFVDG1KL/517e56ce4fb75f78c2a1985fe72765c6/106910_aca1920-40uc_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 137,
+				"name": "IMX249",
+				"size": {
+					"height": 7.13,
+					"width": 11.33
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.2\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 5.86,
+					"vertical": 5.86
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "USB 3.0",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "41 fps",
+						"min_value": 41,
+						"max_value": 41
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "USB 3.0",
+						"min_value": "USB 3.0",
+						"max_value": "USB 3.0"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "29.3 mm",
+						"min_value": 29.3,
+						"max_value": 29.3
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106907,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA1920-40gm",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca1920-40gm",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/1UCGcW0E84eDXAVerMRyTp/fe80d3c91a0a187447c85f51586a0508/106907_aca1920-40gm_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Gf9BzPEECcQHFwL90KLnK/3c4b781508eb4eb481a9a34a6927ba08/106907_aca1920-40gm_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Gf9BzPEECcQHFwL90KLnK/3c4b781508eb4eb481a9a34a6927ba08/106907_aca1920-40gm_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3Gf9BzPEECcQHFwL90KLnK/3c4b781508eb4eb481a9a34a6927ba08/106907_aca1920-40gm_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 137,
+				"name": "IMX249",
+				"size": {
+					"height": 7.13,
+					"width": 11.33
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.2\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 5.86,
+					"vertical": 5.86
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 fps",
+						"min_value": 42,
+						"max_value": 42
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 mm",
+						"min_value": 42,
+						"max_value": 42
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 106908,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA1920-40gc",
+			"product_line": "ace U",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/aca1920-40gc",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3VtEKSw9jvMvBNDaxP2gX0/f45a87c711a91ee1845c6cac988d3066/106908_aca1920-40gc_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/994q5CCxfMjY0w4RK72Ql/fb60bc167cab79e0be7d395b2e3ea36c/106908_aca1920-40gc_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/994q5CCxfMjY0w4RK72Ql/fb60bc167cab79e0be7d395b2e3ea36c/106908_aca1920-40gc_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/994q5CCxfMjY0w4RK72Ql/fb60bc167cab79e0be7d395b2e3ea36c/106908_aca1920-40gc_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 137,
+				"name": "IMX249",
+				"size": {
+					"height": 7.13,
+					"width": 11.33
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/1.2\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 5.86,
+					"vertical": 5.86
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 fps",
+						"min_value": 42,
+						"max_value": 42
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 mm",
+						"min_value": 42,
+						"max_value": 42
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107263,
+			"series": {
+				"name": "Basler ace"
+			},
+			"model_name": "acA1920-48gm",
+			"product_line": "ace U",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/aca1920-48gm",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/3FyJ8MmefN8KFDFjDkZ1Ur/b7776333e13092b876050d47957f7e72/107263_aca1920-48gm_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4rmBYhHH0uXLavnBbgKth5/7e02ba3288485cf0d80c71c8f860ec37/107263_aca1920-48gm_area-scan-camera_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4rmBYhHH0uXLavnBbgKth5/7e02ba3288485cf0d80c71c8f860ec37/107263_aca1920-48gm_area-scan-camera_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4rmBYhHH0uXLavnBbgKth5/7e02ba3288485cf0d80c71c8f860ec37/107263_aca1920-48gm_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 165,
+				"name": "PYTHON 2000",
+				"size": {
+					"height": 5.76,
+					"width": 9.22
+				},
+				"type": "CMOS",
+				"vendor": "onsemi",
+				"optical_size": {
+					"value": "2/3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 4.8,
+					"vertical": 4.8
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "50 fps",
+						"min_value": 50,
+						"max_value": 50
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "42 mm",
+						"min_value": 42,
+						"max_value": 42
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107822,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A1920-51gmBAS",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a1920-51gmbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7juiiSs0B9c2MgN0QvorGv/70c1b1127268a637b9d988b15f9f2dd9/107822_a2a1920-51gmbas_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/750XCxJRMUOR7s0mlUtiRb/62d15ce18ef657ccd4bd671eea2b4662/107822_a2a1920-51gmbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/750XCxJRMUOR7s0mlUtiRb/62d15ce18ef657ccd4bd671eea2b4662/107822_a2a1920-51gmbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/750XCxJRMUOR7s0mlUtiRb/62d15ce18ef657ccd4bd671eea2b4662/107822_a2a1920-51gmbas_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 134,
+				"name": "IMX392",
+				"size": {
+					"height": 4.2,
+					"width": 6.6
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "51 fps",
+						"min_value": 51,
+						"max_value": 51
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107823,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A1920-51gcBAS",
+			"product_line": "ace 2 R Basic",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a1920-51gcbas",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/7eGDlVKYOeI9LkBVsQ94Hc/f389bc5ef01476c4bb0528635841b81f/107823_a2a1920-51gcbas_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4TK7yBxevtLftfo1qbppwK/9b70c10a9416696e80cde16184b873c5/107823_a2a1920-51gcbas_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4TK7yBxevtLftfo1qbppwK/9b70c10a9416696e80cde16184b873c5/107823_a2a1920-51gcbas_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4TK7yBxevtLftfo1qbppwK/9b70c10a9416696e80cde16184b873c5/107823_a2a1920-51gcbas_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 134,
+				"name": "IMX392",
+				"size": {
+					"height": 4.2,
+					"width": 6.6
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "51 fps",
+						"min_value": 51,
+						"max_value": 51
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109204,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA1920-51gc (Color)",
+			"product_line": "",
+			"monocolor": "Color",
+			"url": "https://www.baslerweb.com/de-de/shop/dma1920-51gc-color",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/4CXpUSIAA9sERXGeS2cLHD/ad769ae15a2961876075c7ee558af79a/109204_dma1920-51gc_camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 134,
+				"name": "IMX392",
+				"size": {
+					"height": 4.2,
+					"width": 6.6
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "51 fps",
+						"min_value": 51,
+						"max_value": 51
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 109209,
+			"series": {
+				"name": "Basler dart"
+			},
+			"model_name": "dmA1920-51gm (Mono)",
+			"product_line": "",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/dma1920-51gm-mono",
+			"main_image": {
+				"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp",
+				"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp",
+				"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/62y2J8aReC0aL9eEDoshMY/5d764bb34ca1f21c8a22de61edba40a5/109209_dma1920-51gm_camera_01.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/7qbxdSfsD62JnbQsdZ82Ji/46e05cdc605e117ff125c38b0f317344/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_02.webp"
+				},
+				{
+					"original_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp",
+					"large_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp",
+					"small_url": "//images-ctf.baslerweb.com/dg51pdwahxgw/gVLnmtHV85yj0qpmB7rvU/c407047511e0691ad127481cbd28c9da/bundle-dmA1920-51g_bundle-dmA1440-73g_dartm-bundle_03.webp"
+				}
+			],
+			"sensor": {
+				"id": 134,
+				"name": "IMX392",
+				"size": {
+					"height": 4.2,
+					"width": 6.6
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Board Level"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "51 fps",
+						"min_value": 51,
+						"max_value": 51
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "27 mm",
+						"min_value": 27,
+						"max_value": 27
+					}
+				}
+			]
+		},
+		{
+			"ordernumber": 107963,
+			"series": {
+				"name": "Basler ace 2"
+			},
+			"model_name": "a2A1920-51gmPRO",
+			"product_line": "ace 2 R Pro",
+			"monocolor": "Mono",
+			"url": "https://www.baslerweb.com/de-de/shop/a2a1920-51gmpro",
+			"main_image": {
+				"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp",
+				"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp",
+				"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp"
+			},
+			"images": [
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/4sjKLlesugd7e7T3sciV4Q/9e28a94c4b5f4addc7cef8b2d1354950/107963_a2a1920-51gmpro_area-scan-camera_01.webp"
+				},
+				{
+					"original_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3QqTzWiYOI9pfaoABlW5Lp/d674ac19d946f92ca9084c37986549b4/107963_a2a1920-51gmpro_area-scan-camera_02.webp",
+					"large_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3QqTzWiYOI9pfaoABlW5Lp/d674ac19d946f92ca9084c37986549b4/107963_a2a1920-51gmpro_area-scan-camera_02.webp",
+					"small_url": "https://images-ctf.baslerweb.com/dg51pdwahxgw/3QqTzWiYOI9pfaoABlW5Lp/d674ac19d946f92ca9084c37986549b4/107963_a2a1920-51gmpro_area-scan-camera_02.webp"
+				}
+			],
+			"sensor": {
+				"id": 134,
+				"name": "IMX392",
+				"size": {
+					"height": 4.2,
+					"width": 6.6
+				},
+				"type": "CMOS",
+				"vendor": "Sony",
+				"optical_size": {
+					"value": "1/2.3\""
+				},
+				"resolution": {
+					"megapixel": "2.3 MP",
+					"mp": "2.3",
+					"k": null,
+					"horizontal": 1920,
+					"vertical": 1200
+				},
+				"pixel_size": {
+					"horizontal": 3.45,
+					"vertical": 3.45
+				}
+			},
+			"housing": {
+				"name": "Box"
+			},
+			"interface": "GigE",
+			"specs": [
+				{
+					"group": null,
+					"type": "brand",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Basler",
+						"min_value": "Basler",
+						"max_value": "Basler"
+					}
+				},
+				{
+					"group": null,
+					"type": "camera_category",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "Flächenkamera",
+						"min_value": "Area Scan Camera",
+						"max_value": "Area Scan Camera"
+					}
+				},
+				{
+					"group": null,
+					"type": "sensor_framerate",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "51 fps",
+						"min_value": 51,
+						"max_value": 51
+					}
+				},
+				{
+					"group": null,
+					"type": "interface",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "GigE",
+						"min_value": "GigE",
+						"max_value": "GigE"
+					}
+				},
+				{
+					"group": null,
+					"type": "housing_housingsize_l",
+					"show": 1,
+					"allow_filtering": 1,
+					"value": {
+						"label": "55.5 mm",
+						"min_value": 55.5,
+						"max_value": 55.5
+					}
+				}
+			]
+		}
+	],
+	"decorations": [],
+	"filters": {
+		"camera_category": {
+			"name": "camera_category",
+			"label": "Kamerakategorie",
+			"options": {
+				"Flächenkamera": "Flächenkamera"
+			}
+		},
+		"camera_series": {
+			"name": "camera_series",
+			"label": "Kamera Serie",
+			"options": {
+				"Basler dart": "Basler dart",
+				"Basler ace": "Basler ace",
+				"Basler ace 2": "Basler ace 2",
+				"Basler pulse": "Basler pulse"
+			}
+		},
+		"interface": {
+			"name": "interface",
+			"label": "Schnittstelle",
+			"options": {
+				"USB 3.0": "USB 3.0",
+				"GigE": "GigE",
+				"5GigE": "5GigE"
+			}
+		},
+		"sensor_resolution": {
+			"name": "sensor_resolution",
+			"label": "Auflösung",
+			"options": []
+		},
+		"sensor_resolution_mp": {
+			"name": "sensor_resolution_mp",
+			"label": "Auflösung (MP)",
+			"options": {
+				"0": "0",
+				"1": "1",
+				"2": "2",
+				"3": "3",
+				"5": "5",
+				"8": "8"
+			}
+		},
+		"sensor_resolution_k": {
+			"name": "sensor_resolution_k",
+			"label": "Auflösung (k)",
+			"options": []
+		},
+		"sensor_monocolor": {
+			"name": "sensor_monocolor",
+			"label": "Mono/Farbe",
+			"options": {
+				"Mono": "Mono",
+				"Color": "Color"
+			}
+		},
+		"sensor_shutter": {
+			"name": "sensor_shutter",
+			"label": "Shutter-Technologie",
+			"options": {
+				"Global Shutter": "Global Shutter",
+				"Rolling Shutter": "Rolling Shutter",
+				"Global & Rolling Shutter": "Global & Rolling Shutter"
+			}
+		},
+		"sensor_framerate": {
+			"name": "sensor_framerate",
+			"label": "Framerate",
+			"options": {
+				"14": "14",
+				"20": "20",
+				"23": "23",
+				"36": "36",
+				"37": "37",
+				"41": "41",
+				"42": "42",
+				"50": "50",
+				"51": "51",
+				"54": "54",
+				"60": "60",
+				"64": "64",
+				"72": "72",
+				"73": "73",
+				"88": "88",
+				"114": "114",
+				"134": "134",
+				"150": "150",
+				"160": "160",
+				"168": "168",
+				"203": "203",
+				"227": "227",
+				"240": "240",
+				"290": "290",
+				"291": "291",
+				"376": "376",
+				"511": "511",
+				"523": "523",
+				"525": "525",
+				"751": "751"
+			}
+		},
+		"housing": {
+			"name": "housing",
+			"label": "Housing Typ",
+			"options": {
+				"Box": "Box",
+				"Board Level": "Board Level"
+			}
+		},
+		"price": {
+			"name": "price",
+			"label": "Listenpreis",
+			"options": {
+				"169": "169",
+				"179": "179",
+				"189": "189",
+				"199": "199",
+				"204": "204",
+				"209": "209",
+				"224": "224",
+				"229": "229",
+				"249": "249",
+				"259": "259",
+				"309": "309",
+				"319": "319",
+				"329": "329",
+				"339": "339",
+				"349": "349",
+				"359": "359",
+				"369": "369",
+				"399": "399",
+				"409": "409",
+				"419": "419",
+				"429": "429",
+				"439": "439",
+				"449": "449",
+				"459": "459",
+				"469": "469",
+				"479": "479",
+				"489": "489",
+				"499": "499",
+				"509": "509",
+				"529": "529",
+				"559": "559",
+				"569": "569",
+				"579": "579",
+				"589": "589",
+				"599": "599",
+				"609": "609",
+				"619": "619",
+				"629": "629",
+				"639": "639",
+				"649": "649",
+				"669": "669",
+				"679": "679",
+				"689": "689",
+				"709": "709",
+				"739": "739",
+				"749": "749",
+				"759": "759",
+				"769": "769",
+				"779": "779",
+				"799": "799",
+				"819": "819",
+				"839": "839",
+				"869": "869",
+				"889": "889",
+				"899": "899",
+				"909": "909",
+				"919": "919",
+				"929": "929",
+				"939": "939",
+				"949": "949",
+				"959": "959",
+				"979": "979",
+				"1009": "1009",
+				"1039": "1039",
+				"1059": "1059",
+				"1099": "1099",
+				"1109": "1109",
+				"1119": "1119",
+				"1129": "1129",
+				"1139": "1139",
+				"1159": "1159",
+				"1169": "1169",
+				"1179": "1179",
+				"1199": "1199",
+				"1219": "1219",
+				"1229": "1229",
+				"1259": "1259",
+				"1309": "1309",
+				"1329": "1329",
+				"1359": "1359",
+				"1379": "1379",
+				"1399": "1399",
+				"1419": "1419",
+				"1439": "1439",
+				"1459": "1459",
+				"1479": "1479",
+				"1489": "1489",
+				"1499": "1499",
+				"1509": "1509",
+				"1519": "1519",
+				"1539": "1539",
+				"1549": "1549",
+				"1559": "1559",
+				"1589": "1589",
+				"1599": "1599",
+				"1609": "1609",
+				"1619": "1619",
+				"1629": "1629",
+				"1709": "1709",
+				"1729": "1729",
+				"1799": "1799",
+				"1819": "1819",
+				"1839": "1839",
+				"1849": "1849",
+				"1869": "1869",
+				"1929": "1929",
+				"1949": "1949",
+				"1969": "1969",
+				"1979": "1979",
+				"1989": "1989",
+				"1999": "1999",
+				"2049": "2049",
+				"2069": "2069",
+				"2139": "2139",
+				"2159": "2159",
+				"2179": "2179",
+				"2239": "2239",
+				"2279": "2279",
+				"2299": "2299",
+				"2319": "2319",
+				"2339": "2339",
+				"2349": "2349",
+				"2469": "2469",
+				"2489": "2489",
+				"2509": "2509",
+				"2569": "2569",
+				"2629": "2629",
+				"2649": "2649",
+				"2729": "2729",
+				"2749": "2749",
+				"2839": "2839",
+				"2859": "2859",
+				"2879": "2879",
+				"2889": "2889",
+				"2899": "2899",
+				"2939": "2939",
+				"2999": "2999",
+				"3099": "3099",
+				"3139": "3139",
+				"3199": "3199",
+				"3239": "3239",
+				"3649": "3649",
+				"3699": "3699",
+				"3799": "3799",
+				"3849": "3849",
+				"3899": "3899",
+				"3999": "3999",
+				"4059": "4059",
+				"4229": "4229",
+				"4249": "4249",
+				"4549": "4549",
+				"4699": "4699",
+				"4729": "4729",
+				"5149": "5149",
+				"5659": "5659",
+				"6299": "6299",
+				"6390": "6390",
+				"6399": "6399",
+				"7299": "7299",
+				"7399": "7399",
+				"9990": "9990",
+				"12499": "12499",
+				"12990": "12990",
+				"13789": "13789",
+				"15990": "15990",
+				"16789": "16789"
+			}
+		},
+		"sensorsize_optical": {
+			"name": "sensorsize_optical",
+			"label": "Sensorformat",
+			"options": {
+				"1/2,9\"": "1/2,9\"",
+				"1/1,8\"": "1/1,8\"",
+				"1/2,3\"": "1/2,3\"",
+				"1/2\"": "1/2\"",
+				"1/3.1''": "1/3.1''",
+				"1/3\"": "1/3\"",
+				"1/4\"": "1/4\"",
+				"1/1,2\"": "1/1,2\"",
+				"1/3,6\"": "1/3,6\"",
+				"2/3\"": "2/3\""
+			}
+		},
+		"sensor_pixelsize_horizontal": {
+			"name": "sensor_pixelsize_horizontal",
+			"label": "Pixelgröße (H x V)",
+			"options": {
+				"2": "2",
+				"3": "3",
+				"4": "4",
+				"5": "5",
+				"6": "6"
+			}
+		},
+		"sensor_pixelsize_vertical": {
+			"name": "sensor_pixelsize_vertical",
+			"label": "Pixelgröße (H x V)",
+			"options": {
+				"2": "2",
+				"3": "3",
+				"4": "4",
+				"5": "5",
+				"6": "6"
+			}
+		},
+		"sensorvendor": {
+			"name": "sensorvendor",
+			"label": "Sensorhersteller",
+			"options": {
+				"Sony": "Sony",
+				"onsemi": "onsemi",
+				"Gpixel": "Gpixel",
+				"e2v": "e2v"
+			}
+		},
+		"sensorname": {
+			"name": "sensorname",
+			"label": "Sensor",
+			"options": {
+				"AR0134": "AR0134",
+				"EV76C570": "EV76C570",
+				"GMAX2505": "GMAX2505",
+				"ICX618 Replacement": "ICX618 Replacement",
+				"IMX249": "IMX249",
+				"IMX265": "IMX265",
+				"IMX273": "IMX273",
+				"IMX287": "IMX287",
+				"IMX392": "IMX392",
+				"IMX546": "IMX546",
+				"IMX547": "IMX547",
+				"IMX548": "IMX548",
+				"IMX900": "IMX900",
+				"PYTHON 1300": "PYTHON 1300",
+				"PYTHON 2000": "PYTHON 2000",
+				"PYTHON 300": "PYTHON 300",
+				"PYTHON 500": "PYTHON 500"
+			}
+		}
+	}
+}
